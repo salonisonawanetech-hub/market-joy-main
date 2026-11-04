@@ -1,0 +1,26 @@
+{
+ "id": 12912,
+ "slug": "pipeline-coverage",
+ "path": "/joypedia/pipeline-coverage/",
+ "sourceUrl": "https://marketjoy.com/joypedia/pipeline-coverage/",
+ "title": "Pipeline Coverage",
+ "date": "2026-03-05T11:33:03",
+ "modified": "2026-03-05T11:33:03",
+ "sourceFormat": "plain-html",
+ "excerpt": "A sales metric that measures the ratio of total qualified pipeline value to a sales representative’s or team’s revenue quota, indicating whether sufficient...",
+ "seo": {
+  "title": null,
+  "description": null,
+  "canonical": null,
+  "robots": null,
+  "note": "Not present in export (no Yoast/RankMath fields). excerpt is derived from the body."
+ },
+ "featuredImage": null,
+ "acf": null,
+ "blocks": [
+  {
+   "t": "p",
+   "html": "A sales metric that measures the ratio of total qualified pipeline value to a sales representative’s or team’s revenue quota, indicating whether sufficient opportunities exist to meet targets."
+  }
+ ]
+}

@@ -1,0 +1,128 @@
+{
+ "id": 12964,
+ "slug": "win-rate",
+ "path": "/joypedia/win-rate/",
+ "sourceUrl": "https://marketjoy.com/joypedia/win-rate/",
+ "title": "Win Rate",
+ "date": "2026-03-05T12:52:44",
+ "modified": "2026-08-06T07:09:57",
+ "sourceFormat": "elementor",
+ "excerpt": "Win Rate is the percentage of sales opportunities that result in a closed deal, calculated by dividing the number of won deals by the total number of...",
+ "seo": {
+  "title": null,
+  "description": null,
+  "canonical": null,
+  "robots": null,
+  "note": "Not present in export (no Yoast/RankMath fields). excerpt is derived from the body."
+ },
+ "featuredImage": null,
+ "acf": null,
+ "blocks": [
+  {
+   "t": "h2",
+   "text": "Definition"
+  },
+  {
+   "t": "p",
+   "html": "Win Rate is the percentage of sales opportunities that result in a closed deal, calculated by dividing the number of won deals by the total number of qualified opportunities."
+  },
+  {
+   "t": "h2",
+   "text": "Overview"
+  },
+  {
+   "t": "p",
+   "html": "Win rate is a key sales performance metric used to measure how effectively a team converts opportunities into customers. A higher win rate often reflects strong qualification, effective selling, and competitive positioning."
+  },
+  {
+   "t": "h2",
+   "text": "How It Works"
+  },
+  {
+   "t": "p",
+   "html": "Win rate is typically measured by:"
+  },
+  {
+   "t": "ul",
+   "variant": "check",
+   "items": [
+    {
+     "title": null,
+     "html": "Tracking qualified opportunities entered into the pipeline"
+    },
+    {
+     "title": null,
+     "html": "Counting successfully closed deals"
+    },
+    {
+     "title": null,
+     "html": "Dividing won deals by total qualified opportunities"
+    },
+    {
+     "title": null,
+     "html": "Reviewing results by rep, region, or segment"
+    },
+    {
+     "title": null,
+     "html": "Comparing trends over time"
+    },
+    {
+     "title": null,
+     "html": "Identifying reasons behind wins and losses"
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "html": "Businesses use win rate to improve forecasting and sales execution."
+  },
+  {
+   "t": "p",
+   "html": "Measures sales effectiveness"
+  },
+  {
+   "t": "p",
+   "html": "Improves forecasting accuracy"
+  },
+  {
+   "t": "p",
+   "html": "Identifies coaching opportunities"
+  },
+  {
+   "t": "p",
+   "html": "Reveals pipeline quality issues"
+  },
+  {
+   "t": "p",
+   "html": "Supports revenue planning"
+  },
+  {
+   "t": "p",
+   "html": "Highlights competitive strengths"
+  },
+  {
+   "t": "h2",
+   "text": "Benefits of Tracking Win Rate:"
+  },
+  {
+   "t": "h2",
+   "text": "Example"
+  },
+  {
+   "t": "p",
+   "html": "If a sales team closes 25 deals out of 100 qualified opportunities, the win rate is 25%."
+  },
+  {
+   "t": "h2",
+   "text": "Summary"
+  },
+  {
+   "t": "p",
+   "html": "Win Rate is a core sales metric that shows how many qualified opportunities turn into closed business."
+  },
+  {
+   "t": "cta",
+   "html": "Close more deals with smarter sales strategies. MarketJoy helps businesses improve win rates through better targeting, outreach, and pipeline management."
+  }
+ ]
+}

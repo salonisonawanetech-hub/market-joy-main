@@ -1,0 +1,128 @@
+{
+ "id": 12953,
+ "slug": "total-contract-value-tcv",
+ "path": "/joypedia/total-contract-value-tcv/",
+ "sourceUrl": "https://marketjoy.com/joypedia/total-contract-value-tcv/",
+ "title": "Total Contract Value (TCV)",
+ "date": "2026-03-05T12:36:00",
+ "modified": "2026-08-05T09:02:29",
+ "sourceFormat": "elementor",
+ "excerpt": "Total Contract Value (TCV) is the total revenue a business expects to earn from a customer contract over its entire duration, including recurring fees...",
+ "seo": {
+  "title": null,
+  "description": null,
+  "canonical": null,
+  "robots": null,
+  "note": "Not present in export (no Yoast/RankMath fields). excerpt is derived from the body."
+ },
+ "featuredImage": null,
+ "acf": null,
+ "blocks": [
+  {
+   "t": "h2",
+   "text": "Definition"
+  },
+  {
+   "t": "p",
+   "html": "Total Contract Value (TCV) is the total revenue a business expects to earn from a customer contract over its entire duration, including recurring fees, one-time charges, and add-on services."
+  },
+  {
+   "t": "h2",
+   "text": "Overview"
+  },
+  {
+   "t": "p",
+   "html": "TCV is an important sales and finance metric used to measure the full value of customer agreements. It helps businesses understand deal size, forecast revenue, and compare contract opportunities."
+  },
+  {
+   "t": "h2",
+   "text": "How It Works"
+  },
+  {
+   "t": "p",
+   "html": "TCV typically includes:"
+  },
+  {
+   "t": "ul",
+   "variant": "check",
+   "items": [
+    {
+     "title": null,
+     "html": "Recurring subscription or service fees"
+    },
+    {
+     "title": null,
+     "html": "One-time setup or onboarding charges"
+    },
+    {
+     "title": null,
+     "html": "Implementation or consulting fees"
+    },
+    {
+     "title": null,
+     "html": "Add-on products or upgrades"
+    },
+    {
+     "title": null,
+     "html": "Multi-year contract commitments"
+    },
+    {
+     "title": null,
+     "html": "Renewal revenue if contractually included"
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "html": "It is commonly used in SaaS, enterprise sales, and long-term service agreements."
+  },
+  {
+   "t": "p",
+   "html": "Measures total deal value"
+  },
+  {
+   "t": "p",
+   "html": "Improves revenue forecasting"
+  },
+  {
+   "t": "p",
+   "html": "Supports pricing strategy decisions"
+  },
+  {
+   "t": "p",
+   "html": "Helps prioritize high-value opportunities"
+  },
+  {
+   "t": "p",
+   "html": "Enhances sales performance analysis"
+  },
+  {
+   "t": "p",
+   "html": "Provides clearer contract visibility"
+  },
+  {
+   "t": "h2",
+   "text": "Benefits of Tracking TCV:"
+  },
+  {
+   "t": "h2",
+   "text": "Example"
+  },
+  {
+   "t": "p",
+   "html": "A three-year software contract worth $20,000 annually plus a $5,000 setup fee has a TCV of $65,000."
+  },
+  {
+   "t": "h2",
+   "text": "Summary"
+  },
+  {
+   "t": "p",
+   "html": "Total Contract Value (TCV) is the complete revenue value of a customer contract across its full term."
+  },
+  {
+   "t": "cta",
+   "html": "Maximize contract profitability with smarter sales strategies. MarketJoy helps businesses improve TCV through better deal structuring and revenue planning."
+  }
+ ]
+}

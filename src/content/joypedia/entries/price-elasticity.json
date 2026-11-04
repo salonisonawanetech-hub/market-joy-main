@@ -1,0 +1,26 @@
+{
+ "id": 12913,
+ "slug": "price-elasticity",
+ "path": "/joypedia/price-elasticity/",
+ "sourceUrl": "https://marketjoy.com/joypedia/price-elasticity/",
+ "title": "Price Elasticity",
+ "date": "2026-03-05T11:33:30",
+ "modified": "2026-03-05T11:33:30",
+ "sourceFormat": "plain-html",
+ "excerpt": "An economic measure that assesses how sensitive customer demand is to changes in product pricing.",
+ "seo": {
+  "title": null,
+  "description": null,
+  "canonical": null,
+  "robots": null,
+  "note": "Not present in export (no Yoast/RankMath fields). excerpt is derived from the body."
+ },
+ "featuredImage": null,
+ "acf": null,
+ "blocks": [
+  {
+   "t": "p",
+   "html": "An economic measure that assesses how sensitive customer demand is to changes in product pricing."
+  }
+ ]
+}

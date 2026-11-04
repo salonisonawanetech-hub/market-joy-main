@@ -1,0 +1,128 @@
+{
+ "id": 12952,
+ "slug": "total-addressable-market-tam",
+ "path": "/joypedia/total-addressable-market-tam/",
+ "sourceUrl": "https://marketjoy.com/joypedia/total-addressable-market-tam/",
+ "title": "Total Addressable Market (TAM)",
+ "date": "2026-03-05T12:34:31",
+ "modified": "2026-08-04T13:08:12",
+ "sourceFormat": "elementor",
+ "excerpt": "Total Addressable Market (TAM) is the total revenue opportunity available for a product or service if it achieved 100% market share within its defined...",
+ "seo": {
+  "title": null,
+  "description": null,
+  "canonical": null,
+  "robots": null,
+  "note": "Not present in export (no Yoast/RankMath fields). excerpt is derived from the body."
+ },
+ "featuredImage": null,
+ "acf": null,
+ "blocks": [
+  {
+   "t": "h2",
+   "text": "Definition"
+  },
+  {
+   "t": "p",
+   "html": "Total Addressable Market (TAM) is the total revenue opportunity available for a product or service if it achieved 100% market share within its defined target market."
+  },
+  {
+   "t": "h2",
+   "text": "Overview"
+  },
+  {
+   "t": "p",
+   "html": "TAM helps businesses estimate the maximum possible demand for their offering. It is commonly used for market sizing, strategic planning, investment decisions, and evaluating long-term growth potential."
+  },
+  {
+   "t": "h2",
+   "text": "How It Works"
+  },
+  {
+   "t": "p",
+   "html": "TAM is typically calculated by:"
+  },
+  {
+   "t": "ul",
+   "variant": "check",
+   "items": [
+    {
+     "title": null,
+     "html": "Identifying the full target customer base"
+    },
+    {
+     "title": null,
+     "html": "Estimating average annual revenue per customer"
+    },
+    {
+     "title": null,
+     "html": "Multiplying customer volume by expected spend"
+    },
+    {
+     "title": null,
+     "html": "Analyzing industry trends and demand driver"
+    },
+    {
+     "title": null,
+     "html": "Segmenting markets by geography or vertical"
+    },
+    {
+     "title": null,
+     "html": "Refining estimates using bottom-up or top-down methods"
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "html": "Companies use TAM to understand scale and prioritize expansion opportunities."
+  },
+  {
+   "t": "p",
+   "html": "Supports growth planning"
+  },
+  {
+   "t": "p",
+   "html": "Helps attract investors"
+  },
+  {
+   "t": "p",
+   "html": "Prioritizes product opportunities"
+  },
+  {
+   "t": "p",
+   "html": "Guides market entry decisions"
+  },
+  {
+   "t": "p",
+   "html": "Improves strategic forecasting"
+  },
+  {
+   "t": "p",
+   "html": "Measures long-term revenue potential"
+  },
+  {
+   "t": "h2",
+   "text": "Benefits of Measuring TAM:"
+  },
+  {
+   "t": "h2",
+   "text": "Example"
+  },
+  {
+   "t": "p",
+   "html": "A SaaS company estimates 50,000 target businesses globally, each worth $10,000 annually, resulting in a TAM of $500 million."
+  },
+  {
+   "t": "h2",
+   "text": "Summary"
+  },
+  {
+   "t": "p",
+   "html": "Total Addressable Market (TAM) measures the full revenue opportunity available if a business captured its entire target market."
+  },
+  {
+   "t": "cta",
+   "html": "Understand your true market potential. MarketJoy helps businesses evaluate TAM to identify growth opportunities and smarter go-to-market strategies."
+  }
+ ]
+}

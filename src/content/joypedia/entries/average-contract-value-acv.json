@@ -1,0 +1,120 @@
+{
+ "id": 12765,
+ "slug": "average-contract-value-acv",
+ "path": "/joypedia/average-contract-value-acv/",
+ "sourceUrl": "https://marketjoy.com/joypedia/average-contract-value-acv/",
+ "title": "Average Contract Value (ACV)",
+ "date": "2026-03-04T12:56:23",
+ "modified": "2026-05-08T13:04:36",
+ "sourceFormat": "elementor",
+ "excerpt": "Average Contract Value (ACV) is a key sales metric that represents the average annual revenue generated per customer contract. It standardizes revenue...",
+ "seo": {
+  "title": null,
+  "description": null,
+  "canonical": null,
+  "robots": null,
+  "note": "Not present in export (no Yoast/RankMath fields). excerpt is derived from the body."
+ },
+ "featuredImage": null,
+ "acf": null,
+ "blocks": [
+  {
+   "t": "h2",
+   "text": "Definition"
+  },
+  {
+   "t": "p",
+   "html": "Average Contract Value (ACV) is a key sales metric that represents the average annual revenue generated per customer contract. It standardizes revenue across contracts of different lengths by converting them into a yearly value, making it easier to compare deal sizes and evaluate sales performance."
+  },
+  {
+   "t": "h2",
+   "text": "Overview"
+  },
+  {
+   "t": "p",
+   "html": "ACV is widely used in B2B, SaaS, and subscription-based businesses to measure the quality and value of deals being closed. Unlike total contract value (TCV), which reflects the entire contract value, ACV focuses specifically on the annualized portion of that revenue."
+  },
+  {
+   "t": "h2",
+   "text": "How ACV is Calculated"
+  },
+  {
+   "t": "p",
+   "html": "ACV = Total Contract Value ÷ Contract Duration (in years)"
+  },
+  {
+   "t": "h2",
+   "text": "Example"
+  },
+  {
+   "t": "p",
+   "html": "If a customer signs a 3-year contract worth $90,000: <br>ACV = $90,000 ÷ 3 = $30,000"
+  },
+  {
+   "t": "h2",
+   "text": "Why ACV Matters"
+  },
+  {
+   "t": "ul",
+   "variant": "check",
+   "items": [
+    {
+     "title": "Measures deal quality",
+     "html": "Helps determine whether your sales team is closing high-value contracts"
+    },
+    {
+     "title": "Forecasts revenue accurately",
+     "html": "Provides a clearer view of predictable annual income"
+    },
+    {
+     "title": "Aligns sales and marketing efforts",
+     "html": "Guides targeting of ideal customer segments"
+    },
+    {
+     "title": "Supports growth strategies",
+     "html": "Helps identify opportunities for upselling and expansion"
+    }
+   ]
+  },
+  {
+   "t": "h2",
+   "text": "Key Benefits of Tracking ACV"
+  },
+  {
+   "t": "p",
+   "html": "Enables comparison across deals of different sizes and durations"
+  },
+  {
+   "t": "p",
+   "html": "Improves pricing and packaging decisions"
+  },
+  {
+   "t": "p",
+   "html": "Helps evaluate sales team performance"
+  },
+  {
+   "t": "p",
+   "html": "Supports investor reporting and financial planning"
+  },
+  {
+   "t": "h2",
+   "text": "Example Use Case"
+  },
+  {
+   "t": "p",
+   "html": "A SaaS company notices its ACV increasing quarter over quarter. This indicates that sales teams are successfully targeting larger enterprises or bundling higher-value services, leading to stronger revenue growth."
+  },
+  {
+   "t": "h2",
+   "text": "Summary"
+  },
+  {
+   "t": "p",
+   "html": "ACV is a critical metric for understanding average deal size on a yearly basis, especially in recurring revenue models. It provides clarity on revenue quality, supports strategic decision-making, and helps businesses scale efficiently."
+  },
+  {
+   "t": "p",
+   "html": "Want to increase your ACV and close higher-value deals? Let’s optimize your sales strategy for bigger wins and predictable growth."
+  }
+ ]
+}

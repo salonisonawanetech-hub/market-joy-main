@@ -1,0 +1,130 @@
+{
+ "id": 12850,
+ "slug": "growth-rate",
+ "path": "/joypedia/growth-rate/",
+ "sourceUrl": "https://marketjoy.com/joypedia/growth-rate/",
+ "title": "Growth Rate",
+ "date": "2026-03-05T09:31:00",
+ "modified": "2026-08-10T08:47:02",
+ "sourceFormat": "elementor",
+ "excerpt": "Growth Rate is a metric that measures the percentage increase or decrease in a company’s revenue, customers, market share, or other key performance...",
+ "seo": {
+  "title": null,
+  "description": null,
+  "canonical": null,
+  "robots": null,
+  "note": "Not present in export (no Yoast/RankMath fields). excerpt is derived from the body."
+ },
+ "featuredImage": null,
+ "acf": null,
+ "blocks": [
+  {
+   "t": "h2",
+   "text": "Definition"
+  },
+  {
+   "t": "p",
+   "html": "Growth Rate is a metric that measures the percentage increase or decrease in a company’s revenue, customers, market share, or other key performance indicators over a specific period of time."
+  },
+  {
+   "t": "h2",
+   "text": "Overview"
+  },
+  {
+   "t": "p",
+   "html": "Growth Rate is used to evaluate business performance trends and track progress toward strategic goals. It helps organizations understand whether they are expanding, remaining stable, or declining. Companies commonly monitor growth rates across sales, customer acquisition, profits, website traffic, and market presence to guide planning and investment decisions."
+  },
+  {
+   "t": "h2",
+   "text": "How It Works"
+  },
+  {
+   "t": "p",
+   "html": "Growth Rate is typically calculated using the following formula:"
+  },
+  {
+   "t": "ul",
+   "variant": "check",
+   "items": [
+    {
+     "title": "((Current Value − Previous Value) ÷ Previous Value) × 100",
+     "html": ""
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "html": "Where:"
+  },
+  {
+   "t": "ul",
+   "variant": "check",
+   "items": [
+    {
+     "title": "Current Value",
+     "html": "is the most recent measurement"
+    },
+    {
+     "title": "Previous Value",
+     "html": "is the earlier measurement being compared"
+    },
+    {
+     "title": null,
+     "html": "The result is expressed as a percentage"
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "html": "Growth can be measured monthly, quarterly, annually, or over custom time periods depending on business objectives."
+  },
+  {
+   "t": "p",
+   "html": "Measures business performance over time"
+  },
+  {
+   "t": "p",
+   "html": "Helps identify positive or negative trends early"
+  },
+  {
+   "t": "p",
+   "html": "Supports goal setting and forecasting"
+  },
+  {
+   "t": "p",
+   "html": "Assists with budgeting and resource planning"
+  },
+  {
+   "t": "p",
+   "html": "Increases investor and stakeholder confidence"
+  },
+  {
+   "t": "p",
+   "html": "Highlights expansion opportunities and risks"
+  },
+  {
+   "t": "h2",
+   "text": "Benefits of Tracking Growth Rate:"
+  },
+  {
+   "t": "h2",
+   "text": "Example"
+  },
+  {
+   "t": "p",
+   "html": "A company generated ₹10 crore in revenue last year and ₹12 crore this year. Its revenue growth rate would be 20%, indicating healthy year-over-year expansion."
+  },
+  {
+   "t": "h2",
+   "text": "Summary"
+  },
+  {
+   "t": "p",
+   "html": "Growth Rate is a fundamental metric for understanding business momentum and long-term success. By regularly tracking growth across key areas, companies can make smarter decisions, improve strategy, and sustain competitive advantage."
+  },
+  {
+   "t": "cta",
+   "html": "Accelerate measurable growth with smarter strategies. MarketJoy helps businesses generate pipeline, improve conversions, and drive stronger revenue growth through data-driven execution."
+  }
+ ]
+}

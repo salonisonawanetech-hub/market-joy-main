@@ -1,0 +1,26 @@
+{
+ "id": 12909,
+ "slug": "predictive-analytics",
+ "path": "/joypedia/predictive-analytics/",
+ "sourceUrl": "https://marketjoy.com/joypedia/predictive-analytics/",
+ "title": "Predictive Analytics",
+ "date": "2026-03-05T11:31:30",
+ "modified": "2026-03-05T11:31:30",
+ "sourceFormat": "plain-html",
+ "excerpt": "The use of historical data, statistical modeling, and machine learning techniques to forecast future trends, behaviors, or outcomes.",
+ "seo": {
+  "title": null,
+  "description": null,
+  "canonical": null,
+  "robots": null,
+  "note": "Not present in export (no Yoast/RankMath fields). excerpt is derived from the body."
+ },
+ "featuredImage": null,
+ "acf": null,
+ "blocks": [
+  {
+   "t": "p",
+   "html": "The use of historical data, statistical modeling, and machine learning techniques to forecast future trends, behaviors, or outcomes."
+  }
+ ]
+}

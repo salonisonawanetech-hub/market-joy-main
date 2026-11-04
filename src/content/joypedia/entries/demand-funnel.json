@@ -1,0 +1,112 @@
+{
+ "id": 12839,
+ "slug": "demand-funnel",
+ "path": "/joypedia/demand-funnel/",
+ "sourceUrl": "https://marketjoy.com/joypedia/demand-funnel/",
+ "title": "Demand Funnel",
+ "date": "2026-03-05T08:27:00",
+ "modified": "2026-08-07T09:50:32",
+ "sourceFormat": "elementor",
+ "excerpt": "Demand Funnel is a structured framework that outlines the stages prospects move through—from awareness and consideration to decision and conversion—within...",
+ "seo": {
+  "title": null,
+  "description": null,
+  "canonical": null,
+  "robots": null,
+  "note": "Not present in export (no Yoast/RankMath fields). excerpt is derived from the body."
+ },
+ "featuredImage": null,
+ "acf": null,
+ "blocks": [
+  {
+   "t": "h2",
+   "text": "Definition"
+  },
+  {
+   "t": "p",
+   "html": "Demand Funnel is a structured framework that outlines the stages prospects move through—from awareness and consideration to decision and conversion—within the buying journey."
+  },
+  {
+   "t": "h2",
+   "text": "Overview"
+  },
+  {
+   "t": "p",
+   "html": "The demand funnel provides a clear view of how potential customers progress from initial interest to becoming paying customers. It helps marketing and sales teams align their efforts, track performance at each stage, and optimize strategies to improve conversions."
+  },
+  {
+   "t": "h2",
+   "text": "How It Works"
+  },
+  {
+   "t": "p",
+   "html": "The demand funnel is typically divided into key stages, including:"
+  },
+  {
+   "t": "ul",
+   "variant": "check",
+   "items": [
+    {
+     "title": "Top of Funnel (TOFU) – Awareness:",
+     "html": "Attracting prospects through content, ads, and campaigns"
+    },
+    {
+     "title": "Middle of Funnel (MOFU) – Consideration:",
+     "html": "Engaging and nurturing prospects with relevant information and solutions"
+    },
+    {
+     "title": "Bottom of Funnel (BOFU) – Decision:",
+     "html": "Converting prospects through demos, offers, and sales interactions"
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "html": "Provides visibility into the buyer journey"
+  },
+  {
+   "t": "p",
+   "html": "Helps align marketing and sales strategies"
+  },
+  {
+   "t": "p",
+   "html": "Identifies drop-off points and optimization opportunities"
+  },
+  {
+   "t": "p",
+   "html": "Improves lead nurturing and conversion rates"
+  },
+  {
+   "t": "p",
+   "html": "Enables better forecasting and pipeline management"
+  },
+  {
+   "t": "p",
+   "html": "Each stage requires tailored messaging and tactics to move prospects closer to conversion."
+  },
+  {
+   "t": "h2",
+   "text": "Benefits of the Demand Funnel:"
+  },
+  {
+   "t": "h2",
+   "text": "Example"
+  },
+  {
+   "t": "p",
+   "html": "A company attracts visitors through blog content (TOFU), nurtures them with email campaigns and case studies (MOFU), and converts them through product demos and sales calls (BOFU)."
+  },
+  {
+   "t": "h2",
+   "text": "Summary"
+  },
+  {
+   "t": "p",
+   "html": "The demand funnel is a foundational framework for managing and optimizing the customer journey. By understanding each stage, businesses can deliver the right message at the right time and drive more efficient conversions."
+  },
+  {
+   "t": "cta",
+   "html": "Optimize every stage of your funnel. MarketJoy helps you build and refine a demand funnel that attracts, nurtures, and converts high-quality prospects into revenue."
+  }
+ ]
+}

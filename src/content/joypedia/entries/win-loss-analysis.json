@@ -1,0 +1,128 @@
+{
+ "id": 12967,
+ "slug": "win-loss-analysis",
+ "path": "/joypedia/win-loss-analysis/",
+ "sourceUrl": "https://marketjoy.com/joypedia/win-loss-analysis/",
+ "title": "Win-Loss Analysis",
+ "date": "2026-03-05T12:54:17",
+ "modified": "2026-08-06T12:17:38",
+ "sourceFormat": "elementor",
+ "excerpt": "Win-Loss Analysis is the structured review of successfully closed deals and lost opportunities to understand decision drivers, competitive positioning...",
+ "seo": {
+  "title": null,
+  "description": null,
+  "canonical": null,
+  "robots": null,
+  "note": "Not present in export (no Yoast/RankMath fields). excerpt is derived from the body."
+ },
+ "featuredImage": null,
+ "acf": null,
+ "blocks": [
+  {
+   "t": "h2",
+   "text": "Definition"
+  },
+  {
+   "t": "p",
+   "html": "Win-Loss Analysis is the structured review of successfully closed deals and lost opportunities to understand decision drivers, competitive positioning, pricing impact, and areas for improvement."
+  },
+  {
+   "t": "h2",
+   "text": "Overview"
+  },
+  {
+   "t": "p",
+   "html": "Win-loss analysis gives businesses a clearer picture of why deals are won or lost. By studying outcomes, teams can improve messaging, pricing strategies, and overall sales performance."
+  },
+  {
+   "t": "h2",
+   "text": "How It Works"
+  },
+  {
+   "t": "p",
+   "html": "Win-loss analysis often includes:"
+  },
+  {
+   "t": "ul",
+   "variant": "check",
+   "items": [
+    {
+     "title": null,
+     "html": "Interviewing won and lost prospects"
+    },
+    {
+     "title": null,
+     "html": "Reviewing competitor involvement"
+    },
+    {
+     "title": null,
+     "html": "Assessing pricing feedback"
+    },
+    {
+     "title": null,
+     "html": "Evaluating sales process effectiveness"
+    },
+    {
+     "title": null,
+     "html": "Identifying common objections"
+    },
+    {
+     "title": null,
+     "html": "Turning findings into action plans"
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "html": "Improves future close rates"
+  },
+  {
+   "t": "p",
+   "html": "Sharpens competitive positioning"
+  },
+  {
+   "t": "p",
+   "html": "Reveals pricing challenges"
+  },
+  {
+   "t": "p",
+   "html": "Enhances sales messaging"
+  },
+  {
+   "t": "p",
+   "html": "Identifies coaching need"
+  },
+  {
+   "t": "p",
+   "html": "Supports product improvements"
+  },
+  {
+   "t": "p",
+   "html": "It helps organizations make data-driven sales improvements."
+  },
+  {
+   "t": "h2",
+   "text": "Benefits of Win-Loss Analysis:"
+  },
+  {
+   "t": "h2",
+   "text": "Example"
+  },
+  {
+   "t": "p",
+   "html": "A company learns it loses deals mainly due to slow response times and adjusts its lead follow-up process."
+  },
+  {
+   "t": "h2",
+   "text": "Summary"
+  },
+  {
+   "t": "p",
+   "html": "Win-Loss Analysis is a strategic review process that helps businesses understand deal outcomes and improve future performance."
+  },
+  {
+   "t": "cta",
+   "html": "Learn from every deal outcome. MarketJoy helps businesses use win-loss analysis to improve conversions and revenue growth."
+  }
+ ]
+}

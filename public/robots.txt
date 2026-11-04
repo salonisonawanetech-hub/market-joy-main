@@ -1,0 +1,20 @@
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: *
+Allow: /
+
+Sitemap: https://marketjoy.com/sitemap-blog.xml
+Sitemap: https://marketjoy.com/sitemap-vendors.xml
+Sitemap: https://marketjoy.com/sitemap-content.xml
+Sitemap: https://marketjoy.com/sitemap-industries.xml
+Sitemap: https://marketjoy.com/sitemap-services.xml

@@ -1,0 +1,126 @@
+{
+ "id": 12819,
+ "slug": "customer-lifetime-value-clv-or-ltv",
+ "path": "/joypedia/customer-lifetime-value-clv-or-ltv/",
+ "sourceUrl": "https://marketjoy.com/joypedia/customer-lifetime-value-clv-or-ltv/",
+ "title": "Customer Lifetime Value (CLV or LTV)",
+ "date": "2026-03-04T14:23:10",
+ "modified": "2026-08-07T08:54:40",
+ "sourceFormat": "elementor",
+ "excerpt": "Customer Lifetime Value (CLV or LTV) is a metric that estimates the total revenue a business can expect to generate from a customer over the entire duration...",
+ "seo": {
+  "title": null,
+  "description": null,
+  "canonical": null,
+  "robots": null,
+  "note": "Not present in export (no Yoast/RankMath fields). excerpt is derived from the body."
+ },
+ "featuredImage": null,
+ "acf": null,
+ "blocks": [
+  {
+   "t": "h2",
+   "text": "Definition"
+  },
+  {
+   "t": "p",
+   "html": "Customer Lifetime Value (CLV or LTV) is a metric that estimates the total revenue a business can expect to generate from a customer over the entire duration of their relationship."
+  },
+  {
+   "t": "h2",
+   "text": "Overview"
+  },
+  {
+   "t": "p",
+   "html": "CLV helps businesses understand the long-term value of their customers, enabling more informed decisions around marketing investment, customer acquisition, and retention strategies. It is a key metric for assessing profitability and sustainable growth."
+  },
+  {
+   "t": "h2",
+   "text": "How It Works"
+  },
+  {
+   "t": "p",
+   "html": "CLV is typically calculated using factors such a"
+  },
+  {
+   "t": "ul",
+   "variant": "check",
+   "items": [
+    {
+     "title": null,
+     "html": "Average purchase value"
+    },
+    {
+     "title": null,
+     "html": "Purchase frequency"
+    },
+    {
+     "title": null,
+     "html": "Customer lifespan"
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "html": "A simplified formula is:"
+  },
+  {
+   "t": "ul",
+   "variant": "check",
+   "items": [
+    {
+     "title": null,
+     "html": "(Average Purchase Value × Purchase Frequency × Customer Lifespan)"
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "html": "Helps determine how much to spend on acquiring customers"
+  },
+  {
+   "t": "p",
+   "html": "Identifies high-value customer segments"
+  },
+  {
+   "t": "p",
+   "html": "Supports retention and loyalty strategies"
+  },
+  {
+   "t": "p",
+   "html": "Improves long-term revenue forecasting"
+  },
+  {
+   "t": "p",
+   "html": "Enhances overall profitability"
+  },
+  {
+   "t": "p",
+   "html": "Businesses often compare CLV with Customer Acquisition Cost (CAC) to ensure they are generating positive returns on their investment."
+  },
+  {
+   "t": "h2",
+   "text": "Benefits of Tracking CLV:"
+  },
+  {
+   "t": "h2",
+   "text": "Example"
+  },
+  {
+   "t": "p",
+   "html": "If a customer spends ₹5,000 annually and remains with a company for 5 years, their CLV is ₹25,000, indicating their long-term value to the business."
+  },
+  {
+   "t": "h2",
+   "text": "Summary"
+  },
+  {
+   "t": "p",
+   "html": "Customer Lifetime Value is essential for understanding the true worth of a customer relationship. By maximizing CLV, businesses can drive sustainable growth and make smarter strategic decisions."
+  },
+  {
+   "t": "cta",
+   "html": "Maximize the value of every customer relationship. MarketJoy helps you attract and retain high-value customers to boost your CLV and long-term revenue growth."
+  }
+ ]
+}

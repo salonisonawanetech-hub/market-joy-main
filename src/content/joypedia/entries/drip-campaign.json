@@ -1,0 +1,116 @@
+{
+ "id": 12836,
+ "slug": "drip-campaign",
+ "path": "/joypedia/drip-campaign/",
+ "sourceUrl": "https://marketjoy.com/joypedia/drip-campaign/",
+ "title": "Drip Campaign",
+ "date": "2026-03-05T08:24:50",
+ "modified": "2026-08-07T09:24:35",
+ "sourceFormat": "elementor",
+ "excerpt": "A Drip Campaign is an automated series of emails or messages sent to prospects or customers over a set period of time.",
+ "seo": {
+  "title": null,
+  "description": null,
+  "canonical": null,
+  "robots": null,
+  "note": "Not present in export (no Yoast/RankMath fields). excerpt is derived from the body."
+ },
+ "featuredImage": null,
+ "acf": null,
+ "blocks": [
+  {
+   "t": "h2",
+   "text": "Definition"
+  },
+  {
+   "t": "p",
+   "html": "A Drip Campaign is an automated series of emails or messages sent to prospects or customers over a set period of time."
+  },
+  {
+   "t": "h2",
+   "text": "Overview"
+  },
+  {
+   "t": "p",
+   "html": "Drip campaigns are designed to nurture leads by delivering timely, relevant, and personalized content based on a user’s behavior or stage in the buyer journey. Rather than sending one-off messages, businesses use drip campaigns to maintain consistent engagement and guide prospects toward conversion."
+  },
+  {
+   "t": "h2",
+   "text": "How It Works"
+  },
+  {
+   "t": "p",
+   "html": "Drip campaigns are typically set up using marketing automation tools and are triggered by specific actions or timelines, such as:"
+  },
+  {
+   "t": "ul",
+   "variant": "check",
+   "items": [
+    {
+     "title": null,
+     "html": "Signing up for a newsletter"
+    },
+    {
+     "title": null,
+     "html": "Downloading content or resources"
+    },
+    {
+     "title": null,
+     "html": "Abandoning a form or cart"
+    },
+    {
+     "title": null,
+     "html": "Reaching a particular stage in the sales funnel"
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "html": "Nurtures leads over time with minimal manual effort"
+  },
+  {
+   "t": "p",
+   "html": "Delivers personalized and timely communication"
+  },
+  {
+   "t": "p",
+   "html": "Improves engagement and conversion rates"
+  },
+  {
+   "t": "p",
+   "html": "Keeps prospects informed and interested"
+  },
+  {
+   "t": "p",
+   "html": "Aligns messaging with the buyer journey"
+  },
+  {
+   "t": "p",
+   "html": "Each message in the sequence is strategically timed and tailored to provide value, educate the prospect, and encourage the next step."
+  },
+  {
+   "t": "h2",
+   "text": "Benefits of Drip Campaigns:"
+  },
+  {
+   "t": "h2",
+   "text": "Example"
+  },
+  {
+   "t": "p",
+   "html": "A prospect downloads an ebook and is automatically enrolled in a drip campaign that sends follow-up emails with related content, case studies, and eventually a demo invitation."
+  },
+  {
+   "t": "h2",
+   "text": "Summary"
+  },
+  {
+   "t": "p",
+   "html": "Drip campaigns are an effective way to build relationships and move prospects through the funnel with consistent, value-driven communication. When executed well, they enhance engagement and drive higher conversions."
+  },
+  {
+   "t": "cta",
+   "html": "Nurture leads on autopilot. MarketJoy helps you design and execute high-performing drip campaigns that engage prospects and turn interest into action."
+  }
+ ]
+}

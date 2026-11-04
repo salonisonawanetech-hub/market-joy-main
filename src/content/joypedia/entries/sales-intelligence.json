@@ -1,0 +1,128 @@
+{
+ "id": 12936,
+ "slug": "sales-intelligence",
+ "path": "/joypedia/sales-intelligence/",
+ "sourceUrl": "https://marketjoy.com/joypedia/sales-intelligence/",
+ "title": "Sales Intelligence",
+ "date": "2026-03-05T12:12:35",
+ "modified": "2026-08-03T13:32:47",
+ "sourceFormat": "elementor",
+ "excerpt": "Sales Intelligence refers to data-driven insights about prospects, accounts, competitors, and market trends used to personalize outreach and improve sales...",
+ "seo": {
+  "title": null,
+  "description": null,
+  "canonical": null,
+  "robots": null,
+  "note": "Not present in export (no Yoast/RankMath fields). excerpt is derived from the body."
+ },
+ "featuredImage": null,
+ "acf": null,
+ "blocks": [
+  {
+   "t": "h2",
+   "text": "Definition"
+  },
+  {
+   "t": "p",
+   "html": "Sales Intelligence refers to data-driven insights about prospects, accounts, competitors, and market trends used to personalize outreach and improve sales effectiveness."
+  },
+  {
+   "t": "h2",
+   "text": "Overview"
+  },
+  {
+   "t": "p",
+   "html": "Sales intelligence helps sales teams make smarter decisions by providing actionable information about potential customers and market conditions. It combines data from multiple sources—such as CRM systems, intent data platforms, and market research tools—to improve targeting, engagement, and conversion rates."
+  },
+  {
+   "t": "h2",
+   "text": "How It Works"
+  },
+  {
+   "t": "p",
+   "html": "Sales intelligence is gathered through:"
+  },
+  {
+   "t": "ul",
+   "variant": "check",
+   "items": [
+    {
+     "title": null,
+     "html": "CRM and historical customer data"
+    },
+    {
+     "title": null,
+     "html": "Intent and behavioral tracking signals"
+    },
+    {
+     "title": null,
+     "html": "Firmographic and demographic data"
+    },
+    {
+     "title": null,
+     "html": "Competitor analysis and market research"
+    },
+    {
+     "title": null,
+     "html": "Social media and digital activity insights"
+    },
+    {
+     "title": null,
+     "html": "Third-party data providers and tools"
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "html": "This data is analyzed to identify high-potential prospects and tailor outreach strategies."
+  },
+  {
+   "t": "p",
+   "html": "Improves lead targeting and qualification"
+  },
+  {
+   "t": "p",
+   "html": "Enables personalized outreach"
+  },
+  {
+   "t": "p",
+   "html": "Increases conversion rates"
+  },
+  {
+   "t": "p",
+   "html": "Enhances understanding of customer needs"
+  },
+  {
+   "t": "p",
+   "html": "Strengthens competitive positioning"
+  },
+  {
+   "t": "p",
+   "html": "Supports data-driven sales decisions"
+  },
+  {
+   "t": "h2",
+   "text": "Benefits of Sales Intelligence:"
+  },
+  {
+   "t": "h2",
+   "text": "Example"
+  },
+  {
+   "t": "p",
+   "html": "A sales team uses intent data showing that a company is researching CRM solutions and proactively reaches out with a tailored pitch."
+  },
+  {
+   "t": "h2",
+   "text": "Summary"
+  },
+  {
+   "t": "p",
+   "html": "Sales Intelligence empowers sales teams with actionable insights that improve targeting, personalization, and overall sales performance."
+  },
+  {
+   "t": "cta",
+   "html": "Sell smarter with data-driven insights. MarketJoy helps businesses leverage sales intelligence to improve targeting, engagement, and conversions."
+  }
+ ]
+}

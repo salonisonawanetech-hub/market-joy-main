@@ -1,0 +1,128 @@
+{
+ "id": 12941,
+ "slug": "sales-development-representative-sdr",
+ "path": "/joypedia/sales-development-representative-sdr/",
+ "sourceUrl": "https://marketjoy.com/joypedia/sales-development-representative-sdr/",
+ "title": "Sales Development Representative (SDR)",
+ "date": "2026-03-05T12:15:17",
+ "modified": "2026-08-03T13:48:29",
+ "sourceFormat": "elementor",
+ "excerpt": "A Sales Development Representative (SDR) is a sales professional primarily responsible for prospecting, qualifying inbound and outbound leads, initiating...",
+ "seo": {
+  "title": null,
+  "description": null,
+  "canonical": null,
+  "robots": null,
+  "note": "Not present in export (no Yoast/RankMath fields). excerpt is derived from the body."
+ },
+ "featuredImage": null,
+ "acf": null,
+ "blocks": [
+  {
+   "t": "h2",
+   "text": "Definition"
+  },
+  {
+   "t": "p",
+   "html": "A Sales Development Representative (SDR) is a sales professional primarily responsible for prospecting, qualifying inbound and outbound leads, initiating conversations, and booking meetings for account executives or senior sales staff."
+  },
+  {
+   "t": "h2",
+   "text": "Overview"
+  },
+  {
+   "t": "p",
+   "html": "SDRs play an important role in the early stages of the sales process by identifying potential buyers and creating qualified opportunities for closing teams. Their focus is on outreach, lead qualification, and keeping the sales pipeline active."
+  },
+  {
+   "t": "h2",
+   "text": "How It Works"
+  },
+  {
+   "t": "p",
+   "html": "An SDR’s responsibilities typically include:"
+  },
+  {
+   "t": "ul",
+   "variant": "check",
+   "items": [
+    {
+     "title": null,
+     "html": "Researching target prospects and accounts"
+    },
+    {
+     "title": null,
+     "html": "Contacting leads through calls, emails, and social channels"
+    },
+    {
+     "title": null,
+     "html": "Responding to inbound inquiries"
+    },
+    {
+     "title": null,
+     "html": "Qualifying prospects based on fit and buying intent"
+    },
+    {
+     "title": null,
+     "html": "Scheduling meetings for account executives"
+    },
+    {
+     "title": null,
+     "html": "Updating CRM records and activity notes"
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "html": "SDRs help bridge the gap between marketing-generated interest and revenue-generating sales conversations."
+  },
+  {
+   "t": "p",
+   "html": "Increases qualified pipeline opportunities"
+  },
+  {
+   "t": "p",
+   "html": "Improves speed to lead response"
+  },
+  {
+   "t": "p",
+   "html": "Allows account executives to focus on closing deals"
+  },
+  {
+   "t": "p",
+   "html": "Supports predictable pipeline growth"
+  },
+  {
+   "t": "p",
+   "html": "Enhances prospect engagement"
+  },
+  {
+   "t": "p",
+   "html": "Improves sales team efficiency"
+  },
+  {
+   "t": "h2",
+   "text": "Benefits of Sales Development Representatives:"
+  },
+  {
+   "t": "h2",
+   "text": "Example"
+  },
+  {
+   "t": "p",
+   "html": "An SDR reaches out to webinar attendees, qualifies interested prospects, and books product demo meetings for the account executive team."
+  },
+  {
+   "t": "h2",
+   "text": "Summary"
+  },
+  {
+   "t": "p",
+   "html": "A Sales Development Representative (SDR) is a pipeline-building sales role focused on prospecting, lead qualification, and setting meetings that create new business opportunities."
+  },
+  {
+   "t": "cta",
+   "html": "Build a stronger pipeline with expert outreach. MarketJoy helps businesses scale SDR programs that generate qualified leads and book more meetings."
+  }
+ ]
+}

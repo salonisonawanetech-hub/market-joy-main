@@ -1,0 +1,128 @@
+{
+ "id": 12847,
+ "slug": "funnel",
+ "path": "/joypedia/funnel/",
+ "sourceUrl": "https://marketjoy.com/joypedia/funnel/",
+ "title": "Funnel",
+ "date": "2026-03-05T09:25:59",
+ "modified": "2026-08-10T06:21:00",
+ "sourceFormat": "elementor",
+ "excerpt": "A Funnel, also known as a Sales Funnel or Marketing Funnel, is a visual model that represents the stages a prospect moves through before becoming a...",
+ "seo": {
+  "title": null,
+  "description": null,
+  "canonical": null,
+  "robots": null,
+  "note": "Not present in export (no Yoast/RankMath fields). excerpt is derived from the body."
+ },
+ "featuredImage": null,
+ "acf": null,
+ "blocks": [
+  {
+   "t": "h2",
+   "text": "Definition"
+  },
+  {
+   "t": "p",
+   "html": "A Funnel, also known as a Sales Funnel or Marketing Funnel, is a visual model that represents the stages a prospect moves through before becoming a customer. It typically begins with awareness at the top and progresses through consideration, evaluation, and conversion at the bottom."
+  },
+  {
+   "t": "h2",
+   "text": "Overview"
+  },
+  {
+   "t": "p",
+   "html": "The funnel concept helps businesses understand how potential customers move through the buying journey. As prospects advance through each stage, some continue forward while others drop off, narrowing the funnel. This model is widely used to track lead generation, measure conversion rates, and improve sales and marketing performance."
+  },
+  {
+   "t": "h2",
+   "text": "How It Works"
+  },
+  {
+   "t": "p",
+   "html": "A standard funnel often includes the following stages:"
+  },
+  {
+   "t": "ul",
+   "variant": "check",
+   "items": [
+    {
+     "title": "Awareness",
+     "html": "Prospects first discover the brand, product, or service"
+    },
+    {
+     "title": "Interest",
+     "html": "Leads engage with content or show curiosity"
+    },
+    {
+     "title": "Consideration",
+     "html": "Prospects compare solutions and evaluate options"
+    },
+    {
+     "title": "Intent",
+     "html": "Buyers demonstrate stronger purchase interest"
+    },
+    {
+     "title": "Decision",
+     "html": "Final discussions, proposals, or negotiations take place"
+    },
+    {
+     "title": "Conversion",
+     "html": "The prospect becomes a paying customer"
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "html": "Businesses analyze movement between these stages to identify bottlenecks and optimize performance."
+  },
+  {
+   "t": "p",
+   "html": "Creates visibility into the customer journey"
+  },
+  {
+   "t": "p",
+   "html": "Helps improve lead nurturing strategies"
+  },
+  {
+   "t": "p",
+   "html": "Measures conversion rates at each stage"
+  },
+  {
+   "t": "p",
+   "html": "Identifies weak points in the buying process"
+  },
+  {
+   "t": "p",
+   "html": "Supports revenue forecasting and pipeline planning"
+  },
+  {
+   "t": "p",
+   "html": "Aligns sales and marketing teams around common goals"
+  },
+  {
+   "t": "h2",
+   "text": "Benefits of Using a Funnel:"
+  },
+  {
+   "t": "h2",
+   "text": "Example"
+  },
+  {
+   "t": "p",
+   "html": "A software company attracts 5,000 website visitors through ads and content marketing. From those visitors, 500 download a guide, 100 request a demo, 25 receive proposals, and 10 become customers. This progression reflects the company’s sales funnel."
+  },
+  {
+   "t": "h2",
+   "text": "Summary"
+  },
+  {
+   "t": "p",
+   "html": "A Funnel is an essential framework for managing how prospects become customers. By tracking each stage of the journey, businesses can improve conversions, increase efficiency, and drive predictable growth."
+  },
+  {
+   "t": "cta",
+   "html": "Build a stronger pipeline from awareness to conversion. MarketJoy helps businesses optimize every stage of the funnel, generate qualified leads, and accelerate revenue growth."
+  }
+ ]
+}

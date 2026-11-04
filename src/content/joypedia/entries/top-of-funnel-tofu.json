@@ -1,0 +1,128 @@
+{
+ "id": 12950,
+ "slug": "top-of-funnel-tofu",
+ "path": "/joypedia/top-of-funnel-tofu/",
+ "sourceUrl": "https://marketjoy.com/joypedia/top-of-funnel-tofu/",
+ "title": "Top-of-Funnel (TOFU)",
+ "date": "2026-03-05T12:33:24",
+ "modified": "2026-08-04T11:32:00",
+ "sourceFormat": "elementor",
+ "excerpt": "Top-of-Funnel (TOFU) is the earliest stage of the marketing funnel focused on creating awareness and attracting potential prospects through educational and...",
+ "seo": {
+  "title": null,
+  "description": null,
+  "canonical": null,
+  "robots": null,
+  "note": "Not present in export (no Yoast/RankMath fields). excerpt is derived from the body."
+ },
+ "featuredImage": null,
+ "acf": null,
+ "blocks": [
+  {
+   "t": "h2",
+   "text": "Definition"
+  },
+  {
+   "t": "p",
+   "html": "Top-of-Funnel (TOFU) is the earliest stage of the marketing funnel focused on creating awareness and attracting potential prospects through educational and informational content."
+  },
+  {
+   "t": "h2",
+   "text": "Overview"
+  },
+  {
+   "t": "p",
+   "html": "TOFU activities are designed to introduce a brand, solve early-stage problems, and generate interest among audiences who may not yet be ready to buy. It is where first impressions and demand generation begin."
+  },
+  {
+   "t": "h2",
+   "text": "How It Works"
+  },
+  {
+   "t": "p",
+   "html": "Top-of-funnel strategies typically include:"
+  },
+  {
+   "t": "ul",
+   "variant": "check",
+   "items": [
+    {
+     "title": null,
+     "html": "Blog articles and thought leadership content"
+    },
+    {
+     "title": null,
+     "html": "Social media awareness campaigns"
+    },
+    {
+     "title": null,
+     "html": "Search engine optimization (SEO)"
+    },
+    {
+     "title": null,
+     "html": "Webinars and educational resources"
+    },
+    {
+     "title": null,
+     "html": "Paid advertising campaigns"
+    },
+    {
+     "title": null,
+     "html": "Downloadable guides or checklists"
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "html": "The goal is to attract traffic, capture attention, and generate leads for later nurturing."
+  },
+  {
+   "t": "p",
+   "html": "Builds brand awareness"
+  },
+  {
+   "t": "p",
+   "html": "Increases website traffic"
+  },
+  {
+   "t": "p",
+   "html": "Generates new leads"
+  },
+  {
+   "t": "p",
+   "html": "Educates potential buyers"
+  },
+  {
+   "t": "p",
+   "html": "Expands audience reach"
+  },
+  {
+   "t": "p",
+   "html": "Supports long-term pipeline growth"
+  },
+  {
+   "t": "h2",
+   "text": "Benefits of TOFU Marketing:"
+  },
+  {
+   "t": "h2",
+   "text": "Example"
+  },
+  {
+   "t": "p",
+   "html": "A cybersecurity company publishes beginner guides on ransomware prevention to attract prospects searching for security advice online."
+  },
+  {
+   "t": "h2",
+   "text": "Summary"
+  },
+  {
+   "t": "p",
+   "html": "Top-of-Funnel (TOFU) is the awareness stage where businesses attract and educate potential buyers before they enter the sales process."
+  },
+  {
+   "t": "cta",
+   "html": "Fill your pipeline with qualified interest. MarketJoy helps businesses build TOFU strategies that generate awareness and new opportunities."
+  }
+ ]
+}

@@ -1,0 +1,124 @@
+{
+ "id": 12901,
+ "slug": "prospect",
+ "path": "/joypedia/prospect/",
+ "sourceUrl": "https://marketjoy.com/joypedia/prospect/",
+ "title": "Prospect",
+ "date": "2026-03-05T11:29:03",
+ "modified": "2026-08-10T13:01:49",
+ "sourceFormat": "elementor",
+ "excerpt": "A Prospect is a potential customer who has been identified as a good fit for a company’s product or service but has not yet engaged in a meaningful sales...",
+ "seo": {
+  "title": null,
+  "description": null,
+  "canonical": null,
+  "robots": null,
+  "note": "Not present in export (no Yoast/RankMath fields). excerpt is derived from the body."
+ },
+ "featuredImage": null,
+ "acf": null,
+ "blocks": [
+  {
+   "t": "h2",
+   "text": "Definition"
+  },
+  {
+   "t": "p",
+   "html": "A Prospect is a potential customer who has been identified as a good fit for a company’s product or service but has not yet engaged in a meaningful sales conversation."
+  },
+  {
+   "t": "h2",
+   "text": "Overview"
+  },
+  {
+   "t": "p",
+   "html": "Prospects are early-stage potential buyers who match the ideal customer profile but have not yet been fully qualified or engaged by sales teams. They are typically identified through lead generation, research, or outbound prospecting activities and are nurtured until they show buying intent."
+  },
+  {
+   "t": "h2",
+   "text": "How It Works"
+  },
+  {
+   "t": "p",
+   "html": "Prospects are identified through:"
+  },
+  {
+   "t": "ul",
+   "variant": "check",
+   "items": [
+    {
+     "title": null,
+     "html": "Market research and account targeting"
+    },
+    {
+     "title": null,
+     "html": "Lead generation campaigns"
+    },
+    {
+     "title": null,
+     "html": "Inbound inquiries and website activity"
+    },
+    {
+     "title": null,
+     "html": "Data enrichment and CRM tools"
+    },
+    {
+     "title": null,
+     "html": "Outbound prospecting efforts"
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "html": "Once identified, prospects are engaged and nurtured to convert them into qualified leads."
+  },
+  {
+   "t": "p",
+   "html": "Expands potential customer base"
+  },
+  {
+   "t": "p",
+   "html": "Enables targeted outreach strategies"
+  },
+  {
+   "t": "p",
+   "html": "Improves pipeline development"
+  },
+  {
+   "t": "p",
+   "html": "Supports account-based marketing efforts"
+  },
+  {
+   "t": "p",
+   "html": "Increases sales efficiency"
+  },
+  {
+   "t": "p",
+   "html": "Enhances lead generation effectiveness"
+  },
+  {
+   "t": "h2",
+   "text": "Benefits of Identifying Prospects:"
+  },
+  {
+   "t": "h2",
+   "text": "Example"
+  },
+  {
+   "t": "p",
+   "html": "A company identifies a list of mid-sized manufacturing firms that fit its ideal customer profile but has not yet contacted them—these are classified as prospects."
+  },
+  {
+   "t": "h2",
+   "text": "Summary"
+  },
+  {
+   "t": "p",
+   "html": "A Prospect is a potential customer who fits a business’s target profile but has not yet entered active sales engagement. Identifying prospects is the first step toward building a strong sales pipeline."
+  },
+  {
+   "t": "cta",
+   "html": "Identify the right opportunities early. MarketJoy helps businesses find high-quality prospects and convert them into qualified pipeline opportunities."
+  }
+ ]
+}

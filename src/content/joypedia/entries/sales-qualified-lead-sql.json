@@ -1,0 +1,124 @@
+{
+ "id": 12939,
+ "slug": "sales-qualified-lead-sql",
+ "path": "/joypedia/sales-qualified-lead-sql/",
+ "sourceUrl": "https://marketjoy.com/joypedia/sales-qualified-lead-sql/",
+ "title": "Sales Qualified Lead (SQL)",
+ "date": "2026-03-05T12:14:04",
+ "modified": "2026-08-03T13:25:17",
+ "sourceFormat": "elementor",
+ "excerpt": "A Sales Qualified Lead (SQL) is a prospect that has been vetted and determined by the sales team to have a high likelihood of becoming a paying customer....",
+ "seo": {
+  "title": null,
+  "description": null,
+  "canonical": null,
+  "robots": null,
+  "note": "Not present in export (no Yoast/RankMath fields). excerpt is derived from the body."
+ },
+ "featuredImage": null,
+ "acf": null,
+ "blocks": [
+  {
+   "t": "h2",
+   "text": "Definition"
+  },
+  {
+   "t": "p",
+   "html": "A Sales Qualified Lead (SQL) is a prospect that has been vetted and determined by the sales team to have a high likelihood of becoming a paying customer. SQLs typically meet criteria such as budget, authority, need, and timeline (BANT) and are ready for direct sales engagement."
+  },
+  {
+   "t": "h2",
+   "text": "Overview"
+  },
+  {
+   "t": "p",
+   "html": "SQLs represent the transition point from marketing-qualified interest to active sales opportunities. At this stage, the lead has demonstrated strong intent and fit, making them ready for personalized outreach and deal progression by the sales team."
+  },
+  {
+   "t": "h2",
+   "text": "How It Works"
+  },
+  {
+   "t": "p",
+   "html": "A lead becomes an SQL when it:"
+  },
+  {
+   "t": "ul",
+   "variant": "check",
+   "items": [
+    {
+     "title": null,
+     "html": "Matches the ideal customer profile"
+    },
+    {
+     "title": null,
+     "html": "Shows clear buying intent"
+    },
+    {
+     "title": null,
+     "html": "Has defined budget and authority"
+    },
+    {
+     "title": null,
+     "html": "Has a near-term purchase timeline"
+    },
+    {
+     "title": null,
+     "html": "Engages with sales interactions (calls, demos, meetings)"
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "html": "Once qualified, SQLs enter the active sales pipeline for closing efforts."
+  },
+  {
+   "t": "p",
+   "html": "Improves sales efficiency and focus"
+  },
+  {
+   "t": "p",
+   "html": "Increases conversion rates"
+  },
+  {
+   "t": "p",
+   "html": "Reduces wasted sales effort"
+  },
+  {
+   "t": "p",
+   "html": "Enhances pipeline quality"
+  },
+  {
+   "t": "p",
+   "html": "Strengthens marketing and sales alignment"
+  },
+  {
+   "t": "p",
+   "html": "Improves revenue forecasting"
+  },
+  {
+   "t": "h2",
+   "text": "Benefits of SQLs:"
+  },
+  {
+   "t": "h2",
+   "text": "Example"
+  },
+  {
+   "t": "p",
+   "html": "A prospect who requests a product demo, confirms budget, and discusses implementation timeline is classified as an SQL."
+  },
+  {
+   "t": "h2",
+   "text": "Summary"
+  },
+  {
+   "t": "p",
+   "html": "A Sales Qualified Lead is a high-intent prospect ready for direct sales engagement, playing a critical role in driving pipeline conversion and revenue growth."
+  },
+  {
+   "t": "cta",
+   "html": "Focus on the leads that matter most. MarketJoy helps businesses generate and qualify SQLs that convert faster and drive predictable revenue."
+  }
+ ]
+}

@@ -1,0 +1,140 @@
+{
+ "id": 12878,
+ "slug": "net-promoter-score-nps",
+ "path": "/joypedia/net-promoter-score-nps/",
+ "sourceUrl": "https://marketjoy.com/joypedia/net-promoter-score-nps/",
+ "title": "Net Promoter Score (NPS)",
+ "date": "2026-03-05T09:58:37",
+ "modified": "2026-08-10T10:42:28",
+ "sourceFormat": "elementor",
+ "excerpt": "Net Promoter Score (NPS) is a customer loyalty metric that measures how likely customers are to recommend a company’s product or service to others...",
+ "seo": {
+  "title": null,
+  "description": null,
+  "canonical": null,
+  "robots": null,
+  "note": "Not present in export (no Yoast/RankMath fields). excerpt is derived from the body."
+ },
+ "featuredImage": null,
+ "acf": null,
+ "blocks": [
+  {
+   "t": "h2",
+   "text": "Definition"
+  },
+  {
+   "t": "p",
+   "html": "Net Promoter Score (NPS) is a customer loyalty metric that measures how likely customers are to recommend a company’s product or service to others, typically based on a standardized survey scal"
+  },
+  {
+   "t": "h2",
+   "text": "Overview"
+  },
+  {
+   "t": "p",
+   "html": "NPS is widely used to gauge customer satisfaction and brand loyalty. It helps businesses understand overall customer sentiment and identify areas for improvement. Customers are grouped into promoters, passives, and detractors based on their responses, providing a clear measure of advocacy."
+  },
+  {
+   "t": "h2",
+   "text": "How It Works"
+  },
+  {
+   "t": "p",
+   "html": "NPS is calculated by asking customers a single question:"
+  },
+  {
+   "t": "ul",
+   "variant": "check",
+   "items": [
+    {
+     "title": null,
+     "html": "“How likely are you to recommend us to a friend or colleague?” (rated 0–10)"
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "html": "Responses are categorized as:"
+  },
+  {
+   "t": "ul",
+   "variant": "check",
+   "items": [
+    {
+     "title": "Promoters (9–10)",
+     "html": "Loyal and enthusiastic customers"
+    },
+    {
+     "title": "Passives (7–8)",
+     "html": "Satisfied but unenthusiastic customers"
+    },
+    {
+     "title": "Detractors (0–6)",
+     "html": "Unhappy customers"
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "html": "Formula:"
+  },
+  {
+   "t": "ul",
+   "variant": "check",
+   "items": [
+    {
+     "title": "NPS = % Promoters − % Detractors",
+     "html": ""
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "html": "Measures customer satisfaction and loyalty"
+  },
+  {
+   "t": "p",
+   "html": "Identifies brand advocates and at-risk customers"
+  },
+  {
+   "t": "p",
+   "html": "Improves customer experience strategies"
+  },
+  {
+   "t": "p",
+   "html": "Supports product and service improvements"
+  },
+  {
+   "t": "p",
+   "html": "Provides benchmark for performance tracking"
+  },
+  {
+   "t": "p",
+   "html": "Enhances customer retention efforts"
+  },
+  {
+   "t": "h2",
+   "text": "Benefits of NPS:"
+  },
+  {
+   "t": "h2",
+   "text": "Example"
+  },
+  {
+   "t": "p",
+   "html": "If 60% of customers are promoters and 20% are detractors, the NPS score is 40."
+  },
+  {
+   "t": "h2",
+   "text": "Summary"
+  },
+  {
+   "t": "p",
+   "html": "Net Promoter Score is a simple yet powerful metric for understanding customer loyalty and satisfaction. It helps businesses track sentiment and improve long-term relationships."
+  },
+  {
+   "t": "cta",
+   "html": "Turn happy customers into brand advocates. MarketJoy helps businesses improve customer experience, increase satisfaction, and strengthen NPS performance."
+  }
+ ]
+}

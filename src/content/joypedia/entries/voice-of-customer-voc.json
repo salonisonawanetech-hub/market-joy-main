@@ -1,0 +1,128 @@
+{
+ "id": 12962,
+ "slug": "voice-of-customer-voc",
+ "path": "/joypedia/voice-of-customer-voc/",
+ "sourceUrl": "https://marketjoy.com/joypedia/voice-of-customer-voc/",
+ "title": "Voice of Customer (VoC)",
+ "date": "2026-03-05T12:51:21",
+ "modified": "2026-08-06T06:56:51",
+ "sourceFormat": "elementor",
+ "excerpt": "Voice of Customer (VoC) is the systematic collection and analysis of customer feedback, insights, and expectations to guide product development, marketing...",
+ "seo": {
+  "title": null,
+  "description": null,
+  "canonical": null,
+  "robots": null,
+  "note": "Not present in export (no Yoast/RankMath fields). excerpt is derived from the body."
+ },
+ "featuredImage": null,
+ "acf": null,
+ "blocks": [
+  {
+   "t": "h2",
+   "text": "Definition"
+  },
+  {
+   "t": "p",
+   "html": "Voice of Customer (VoC) is the systematic collection and analysis of customer feedback, insights, and expectations to guide product development, marketing strategies, and service improvements."
+  },
+  {
+   "t": "h2",
+   "text": "Overview"
+  },
+  {
+   "t": "p",
+   "html": "VoC programs help businesses better understand what customers need, value, and experience. By listening to customer feedback, companies can make smarter decisions that improve satisfaction, loyalty, and overall business performance."
+  },
+  {
+   "t": "h2",
+   "text": "How It Works"
+  },
+  {
+   "t": "p",
+   "html": "A Voice of Customer program typically includes:"
+  },
+  {
+   "t": "ul",
+   "variant": "check",
+   "items": [
+    {
+     "title": null,
+     "html": "Customer surveys and feedback forms"
+    },
+    {
+     "title": null,
+     "html": "Interviews and focus groups"
+    },
+    {
+     "title": null,
+     "html": "Reviews and social media monitoring"
+    },
+    {
+     "title": null,
+     "html": "Support ticket analysis"
+    },
+    {
+     "title": null,
+     "html": "Net Promoter Score (NPS) insights"
+    },
+    {
+     "title": null,
+     "html": "Trend analysis and action planning"
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "html": "The goal is to turn customer feedback into meaningful improvements."
+  },
+  {
+   "t": "p",
+   "html": "Improves customer satisfaction"
+  },
+  {
+   "t": "p",
+   "html": "Helps identify pain points quickly"
+  },
+  {
+   "t": "p",
+   "html": "Supports better product decisions"
+  },
+  {
+   "t": "p",
+   "html": "Strengthens retention and loyalty"
+  },
+  {
+   "t": "p",
+   "html": "Enhances service quality"
+  },
+  {
+   "t": "p",
+   "html": "Guides smarter business strategies"
+  },
+  {
+   "t": "h2",
+   "text": "Benefits of Voice of Customer:"
+  },
+  {
+   "t": "h2",
+   "text": "Example"
+  },
+  {
+   "t": "p",
+   "html": "A SaaS company gathers onboarding feedback from new users and uses the insights to simplify setup steps and improve adoption."
+  },
+  {
+   "t": "h2",
+   "text": "Summary"
+  },
+  {
+   "t": "p",
+   "html": "Voice of Customer (VoC) is a customer insight strategy that helps businesses listen, learn, and improve based on real feedback."
+  },
+  {
+   "t": "cta",
+   "html": "Turn feedback into growth opportunities. MarketJoy helps businesses build VoC strategies that improve customer experience and retention."
+  }
+ ]
+}

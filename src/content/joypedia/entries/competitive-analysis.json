@@ -1,0 +1,26 @@
+{
+ "id": 12815,
+ "slug": "competitive-analysis",
+ "path": "/joypedia/competitive-analysis/",
+ "sourceUrl": "https://marketjoy.com/joypedia/competitive-analysis/",
+ "title": "Competitive Analysis",
+ "date": "2026-03-04T14:18:48",
+ "modified": "2026-03-04T14:18:48",
+ "sourceFormat": "plain-html",
+ "excerpt": "The systematic evaluation of competitors’ strengths, weaknesses, positioning, pricing, and strategies to identify market opportunities and competitive...",
+ "seo": {
+  "title": null,
+  "description": null,
+  "canonical": null,
+  "robots": null,
+  "note": "Not present in export (no Yoast/RankMath fields). excerpt is derived from the body."
+ },
+ "featuredImage": null,
+ "acf": null,
+ "blocks": [
+  {
+   "t": "p",
+   "html": "The systematic evaluation of competitors’ strengths, weaknesses, positioning, pricing, and strategies to identify market opportunities and competitive advantages."
+  }
+ ]
+}

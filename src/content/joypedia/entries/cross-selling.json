@@ -1,0 +1,26 @@
+{
+ "id": 12813,
+ "slug": "cross-selling",
+ "path": "/joypedia/cross-selling/",
+ "sourceUrl": "https://marketjoy.com/joypedia/cross-selling/",
+ "title": "Cross-Selling",
+ "date": "2026-03-04T14:15:48",
+ "modified": "2026-03-04T14:15:48",
+ "sourceFormat": "plain-html",
+ "excerpt": "Cross-Selling is a sales strategy where a company encourages an existing customer to purchase additional related or complementary products or services. It...",
+ "seo": {
+  "title": null,
+  "description": null,
+  "canonical": null,
+  "robots": null,
+  "note": "Not present in export (no Yoast/RankMath fields). excerpt is derived from the body."
+ },
+ "featuredImage": null,
+ "acf": null,
+ "blocks": [
+  {
+   "t": "p",
+   "html": "Cross-Selling is a sales strategy where a company encourages an existing customer to purchase additional related or complementary products or services. It aims to increase customer value, strengthen relationships, and boost overall revenue by offering solutions that enhance the original purchase."
+  }
+ ]
+}

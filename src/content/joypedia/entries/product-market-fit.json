@@ -1,0 +1,26 @@
+{
+ "id": 12910,
+ "slug": "product-market-fit",
+ "path": "/joypedia/product-market-fit/",
+ "sourceUrl": "https://marketjoy.com/joypedia/product-market-fit/",
+ "title": "Product-Market Fit",
+ "date": "2026-03-05T11:32:00",
+ "modified": "2026-03-05T11:32:00",
+ "sourceFormat": "plain-html",
+ "excerpt": "The degree to which a product effectively satisfies strong market demand, demonstrated by customer adoption, retention, and positive feedback.",
+ "seo": {
+  "title": null,
+  "description": null,
+  "canonical": null,
+  "robots": null,
+  "note": "Not present in export (no Yoast/RankMath fields). excerpt is derived from the body."
+ },
+ "featuredImage": null,
+ "acf": null,
+ "blocks": [
+  {
+   "t": "p",
+   "html": "The degree to which a product effectively satisfies strong market demand, demonstrated by customer adoption, retention, and positive feedback."
+  }
+ ]
+}

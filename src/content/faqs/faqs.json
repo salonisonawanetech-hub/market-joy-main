@@ -1,0 +1,520 @@
+{
+ "_note": "FAQ source of truth. Items with an answer are rendered on /faqs/ and in FAQ JSON-LD. 'pending-source' items have no answer text in any export (the WordPress FAQ export was not provided) and are intentionally NOT rendered or invented.",
+ "items": [
+  {
+   "question": "What is B2B lead generation?",
+   "category": "Basics",
+   "answer": "B2B lead generation is the process of identifying, attracting and engaging potential business customers that are highly interested in a company's products or services. The primary goal is to build a qualified sales pipeline for your sales team.",
+   "status": "migrated",
+   "source": "existing React project (src/components/home/data.ts, verbatim)",
+   "liveSections": [
+    "home"
+   ]
+  },
+  {
+   "question": "What are lead generation services?",
+   "category": "Basics",
+   "answer": "Outsourced solutions provided by specialized teams to help businesses find and connect with potential customers, using tools and data-driven outreach to deliver qualified leads directly to your sales pipeline.",
+   "status": "migrated",
+   "source": "existing React project (src/components/home/data.ts, verbatim)",
+   "liveSections": [
+    "home"
+   ]
+  },
+  {
+   "question": "What's the benefit of hiring a B2B lead generation company?",
+   "category": "Strategy",
+   "answer": "Access to revenue and sales expertise, advanced prospect targeting technology and proven campaign strategies — an extension of your team that accelerates market reach and delivers guaranteed sales-qualified leads.",
+   "status": "migrated",
+   "source": "existing React project (src/components/home/data.ts, verbatim)",
+   "liveSections": [
+    "home"
+   ]
+  },
+  {
+   "question": "When should I invest in a B2B lead generation service?",
+   "category": "Strategy",
+   "answer": "When your team struggles to fill the pipeline with qualified prospects, faces low lead-to-customer conversion, is stretched between prospecting and closing, wants to scale quickly, or needs guaranteed results and a clear ROI plan.",
+   "status": "migrated",
+   "source": "existing React project (src/components/home/data.ts, verbatim)",
+   "liveSections": [
+    "home"
+   ]
+  },
+  {
+   "question": "What are the different types of B2B lead generation services?",
+   "category": "Basics",
+   "answer": "Outbound email and calling campaigns, buyer intent data targeting, personalized prospecting and list curation, campaign optimization and analytics, appointment setting and sales facilitation, and content syndication.",
+   "status": "migrated",
+   "source": "existing React project (src/components/home/data.ts, verbatim)",
+   "liveSections": [
+    "home"
+   ]
+  },
+  {
+   "question": "What is the most effective channel for B2B lead generation?",
+   "category": "Strategy",
+   "answer": "It depends on your market and ICP, but a multi-channel approach of personalized email outreach and outbound calling, complemented by buyer intent data, is often the most successful.",
+   "status": "migrated",
+   "source": "existing React project (src/components/home/data.ts, verbatim)",
+   "liveSections": [
+    "home"
+   ]
+  },
+  {
+   "question": "Do you offer any guarantees?",
+   "category": "Working with MarketJoy",
+   "answer": "Yes. MarketJoy offers a unique 100% SQL Guarantee. If our results don't meet the agreed-upon expectations, we continue at no cost.",
+   "status": "migrated",
+   "source": "existing React project (src/components/home/data.ts, verbatim)",
+   "liveSections": [
+    "home"
+   ]
+  },
+  {
+   "question": "What makes MarketJoy different from other lead generation agencies?",
+   "category": "Working with MarketJoy",
+   "answer": "We define your ICP, use buyer intent data and hand-curated contacts, manage all outreach, run bi-weekly performance reviews and continuously optimize campaigns — with a transparent, ROI-focused culture.",
+   "status": "migrated",
+   "source": "existing React project (src/components/home/data.ts, verbatim)",
+   "liveSections": [
+    "home"
+   ]
+  },
+  {
+   "question": "What do lead generation services do?",
+   "category": null,
+   "answer": null,
+   "status": "pending-source",
+   "source": "question text read from https://marketjoy.com/faqs/ ; answer NOT in any provided export",
+   "liveSections": [
+    "home"
+   ]
+  },
+  {
+   "question": "How do I find the best B2B lead generation services?",
+   "category": null,
+   "answer": null,
+   "status": "pending-source",
+   "source": "question text read from https://marketjoy.com/faqs/ ; answer NOT in any provided export",
+   "liveSections": [
+    "home"
+   ]
+  },
+  {
+   "question": "I have used a vendor before with bad results",
+   "category": null,
+   "answer": null,
+   "status": "pending-source",
+   "source": "question text read from https://marketjoy.com/faqs/ ; answer NOT in any provided export",
+   "liveSections": [
+    "faqs-main"
+   ]
+  },
+  {
+   "question": "How big is your company? How long have you been around?",
+   "category": null,
+   "answer": null,
+   "status": "pending-source",
+   "source": "question text read from https://marketjoy.com/faqs/ ; answer NOT in any provided export",
+   "liveSections": [
+    "faqs-main"
+   ]
+  },
+  {
+   "question": "Where is your team located?",
+   "category": null,
+   "answer": null,
+   "status": "pending-source",
+   "source": "question text read from https://marketjoy.com/faqs/ ; answer NOT in any provided export",
+   "liveSections": [
+    "faqs-main"
+   ]
+  },
+  {
+   "question": "How do you build your data or contact lists?",
+   "category": null,
+   "answer": null,
+   "status": "pending-source",
+   "source": "question text read from https://marketjoy.com/faqs/ ; answer NOT in any provided export",
+   "liveSections": [
+    "faqs-main"
+   ]
+  },
+  {
+   "question": "What qualifies as a lead?",
+   "category": null,
+   "answer": null,
+   "status": "pending-source",
+   "source": "question text read from https://marketjoy.com/faqs/ ; answer NOT in any provided export",
+   "liveSections": [
+    "faqs-main"
+   ]
+  },
+  {
+   "question": "I am looking for PPL (pay per lead)",
+   "category": null,
+   "answer": null,
+   "status": "pending-source",
+   "source": "question text read from https://marketjoy.com/faqs/ ; answer NOT in any provided export",
+   "liveSections": [
+    "faqs-main"
+   ]
+  },
+  {
+   "question": "Do you operate out of our CRM?",
+   "category": null,
+   "answer": null,
+   "status": "pending-source",
+   "source": "question text read from https://marketjoy.com/faqs/ ; answer NOT in any provided export",
+   "liveSections": [
+    "faqs-main"
+   ]
+  },
+  {
+   "question": "Do you work with HubSpot?",
+   "category": null,
+   "answer": null,
+   "status": "pending-source",
+   "source": "question text read from https://marketjoy.com/faqs/ ; answer NOT in any provided export",
+   "liveSections": [
+    "faqs-main"
+   ]
+  },
+  {
+   "question": "How does the data you build get into our CRM?",
+   "category": null,
+   "answer": null,
+   "status": "pending-source",
+   "source": "question text read from https://marketjoy.com/faqs/ ; answer NOT in any provided export",
+   "liveSections": [
+    "faqs-main"
+   ]
+  },
+  {
+   "question": "How do you send the leads over?",
+   "category": null,
+   "answer": null,
+   "status": "pending-source",
+   "source": "question text read from https://marketjoy.com/faqs/ ; answer NOT in any provided export",
+   "liveSections": [
+    "faqs-main"
+   ]
+  },
+  {
+   "question": "I have an in-house team already",
+   "category": null,
+   "answer": null,
+   "status": "pending-source",
+   "source": "question text read from https://marketjoy.com/faqs/ ; answer NOT in any provided export",
+   "liveSections": [
+    "faqs-main"
+   ]
+  },
+  {
+   "question": "How do you guarantee meetings?",
+   "category": null,
+   "answer": null,
+   "status": "pending-source",
+   "source": "question text read from https://marketjoy.com/faqs/ ; answer NOT in any provided export",
+   "liveSections": [
+    "faqs-main"
+   ]
+  },
+  {
+   "question": "What if someone does not show to a meeting you book?",
+   "category": null,
+   "answer": null,
+   "status": "pending-source",
+   "source": "question text read from https://marketjoy.com/faqs/ ; answer NOT in any provided export",
+   "liveSections": [
+    "faqs-main"
+   ]
+  },
+  {
+   "question": "How do you engage? Is it on behalf of us or MarketJoy?",
+   "category": null,
+   "answer": null,
+   "status": "pending-source",
+   "source": "question text read from https://marketjoy.com/faqs/ ; answer NOT in any provided export",
+   "liveSections": [
+    "faqs-main"
+   ]
+  },
+  {
+   "question": "Who sets up the emails?",
+   "category": null,
+   "answer": null,
+   "status": "pending-source",
+   "source": "question text read from https://marketjoy.com/faqs/ ; answer NOT in any provided export",
+   "liveSections": [
+    "faqs-main"
+   ]
+  },
+  {
+   "question": "What type of training goes into the SDR team?",
+   "category": null,
+   "answer": null,
+   "status": "pending-source",
+   "source": "question text read from https://marketjoy.com/faqs/ ; answer NOT in any provided export",
+   "liveSections": [
+    "faqs-main"
+   ]
+  },
+  {
+   "question": "Can I speak with the callers?",
+   "category": null,
+   "answer": null,
+   "status": "pending-source",
+   "source": "question text read from https://marketjoy.com/faqs/ ; answer NOT in any provided export",
+   "liveSections": [
+    "faqs-main"
+   ]
+  },
+  {
+   "question": "Where are your callers located?",
+   "category": null,
+   "answer": null,
+   "status": "pending-source",
+   "source": "question text read from https://marketjoy.com/faqs/ ; answer NOT in any provided export",
+   "liveSections": [
+    "faqs-main"
+   ]
+  },
+  {
+   "question": "What are your standard KPIs around campaigns?",
+   "category": null,
+   "answer": null,
+   "status": "pending-source",
+   "source": "question text read from https://marketjoy.com/faqs/ ; answer NOT in any provided export",
+   "liveSections": [
+    "faqs-main"
+   ]
+  },
+  {
+   "question": "Will you identify projects or closed deals?",
+   "category": null,
+   "answer": null,
+   "status": "pending-source",
+   "source": "question text read from https://marketjoy.com/faqs/ ; answer NOT in any provided export",
+   "liveSections": [
+    "faqs-main"
+   ]
+  },
+  {
+   "question": "Do you do Rev Share?",
+   "category": null,
+   "answer": null,
+   "status": "pending-source",
+   "source": "question text read from https://marketjoy.com/faqs/ ; answer NOT in any provided export",
+   "liveSections": [
+    "faqs-main"
+   ]
+  },
+  {
+   "question": "Does MarketJoy Serve B2C?",
+   "category": null,
+   "answer": null,
+   "status": "pending-source",
+   "source": "question text read from https://marketjoy.com/faqs/ ; answer NOT in any provided export",
+   "liveSections": [
+    "faqs-main",
+    "faqs-more"
+   ],
+   "note": "Exact duplicate question on the live site (appears in both FAQ sections); kept once, not deleted."
+  },
+  {
+   "question": "Will you identify projects?",
+   "category": null,
+   "answer": null,
+   "status": "pending-source",
+   "source": "question text read from https://marketjoy.com/faqs/ ; answer NOT in any provided export",
+   "liveSections": [
+    "faqs-main"
+   ],
+   "note": "Near-duplicate of 'Will you identify projects or closed deals?' on the live site with a different answer; kept, review before publishing."
+  },
+  {
+   "question": "What if someone does not show?",
+   "category": null,
+   "answer": null,
+   "status": "pending-source",
+   "source": "question text read from https://marketjoy.com/faqs/ ; answer NOT in any provided export",
+   "liveSections": [
+    "faqs-main"
+   ],
+   "note": "Near-duplicate of 'What if someone does not show to a meeting you book?' on the live site with a different answer; kept, review before publishing."
+  },
+  {
+   "question": "How do you build your data?",
+   "category": null,
+   "answer": null,
+   "status": "pending-source",
+   "source": "question text read from https://marketjoy.com/faqs/ ; answer NOT in any provided export",
+   "liveSections": [
+    "faqs-main"
+   ],
+   "note": "Near-duplicate of 'How do you build your data or contact lists?' on the live site with a different answer; kept, review before publishing."
+  },
+  {
+   "question": "What if you do not hit the guarantee?",
+   "category": null,
+   "answer": null,
+   "status": "pending-source",
+   "source": "question text read from https://marketjoy.com/faqs/ ; answer NOT in any provided export",
+   "liveSections": [
+    "faqs-main"
+   ]
+  },
+  {
+   "question": "What packages do you offer?",
+   "category": null,
+   "answer": null,
+   "status": "pending-source",
+   "source": "question text read from https://marketjoy.com/faqs/ ; answer NOT in any provided export",
+   "liveSections": [
+    "faqs-main"
+   ]
+  },
+  {
+   "question": "How many campaigns can we run to begin with on each plan?",
+   "category": null,
+   "answer": null,
+   "status": "pending-source",
+   "source": "question text read from https://marketjoy.com/faqs/ ; answer NOT in any provided export",
+   "liveSections": [
+    "faqs-main"
+   ]
+  },
+  {
+   "question": "What volume of calls are made per plan on average?",
+   "category": null,
+   "answer": null,
+   "status": "pending-source",
+   "source": "question text read from https://marketjoy.com/faqs/ ; answer NOT in any provided export",
+   "liveSections": [
+    "faqs-main"
+   ]
+  },
+  {
+   "question": "How many contacts are enrolled per plan on average?",
+   "category": null,
+   "answer": null,
+   "status": "pending-source",
+   "source": "question text read from https://marketjoy.com/faqs/ ; answer NOT in any provided export",
+   "liveSections": [
+    "faqs-main"
+   ]
+  },
+  {
+   "question": "How long before the first meeting is scheduled on average?",
+   "category": null,
+   "answer": null,
+   "status": "pending-source",
+   "source": "question text read from https://marketjoy.com/faqs/ ; answer NOT in any provided export",
+   "liveSections": [
+    "faqs-main"
+   ]
+  },
+  {
+   "question": "How long does it take to add another campaign after live, ie: Trade Show, new ICP, new product/offering",
+   "category": null,
+   "answer": null,
+   "status": "pending-source",
+   "source": "question text read from https://marketjoy.com/faqs/ ; answer NOT in any provided export",
+   "liveSections": [
+    "faqs-main"
+   ]
+  },
+  {
+   "question": "Can calls be auto recorded and sent weekly or monthly for review?",
+   "category": null,
+   "answer": null,
+   "status": "pending-source",
+   "source": "question text read from https://marketjoy.com/faqs/ ; answer NOT in any provided export",
+   "liveSections": [
+    "faqs-main"
+   ]
+  },
+  {
+   "question": "Can a 1:1 meeting be scheduled for role plays/mock calls with the SDR and client before or after going live?",
+   "category": null,
+   "answer": null,
+   "status": "pending-source",
+   "source": "question text read from https://marketjoy.com/faqs/ ; answer NOT in any provided export",
+   "liveSections": [
+    "faqs-main"
+   ]
+  },
+  {
+   "question": "What is our success rate phone vs. Email in scheduling a sales appointment?",
+   "category": null,
+   "answer": null,
+   "status": "pending-source",
+   "source": "question text read from https://marketjoy.com/faqs/ ; answer NOT in any provided export",
+   "liveSections": [
+    "faqs-main"
+   ]
+  },
+  {
+   "question": "Who Are You and What Do You Offer?",
+   "category": null,
+   "answer": null,
+   "status": "pending-source",
+   "source": "question text read from https://marketjoy.com/faqs/ ; answer NOT in any provided export",
+   "liveSections": [
+    "faqs-more"
+   ]
+  },
+  {
+   "question": "Why Were You Formed?",
+   "category": null,
+   "answer": null,
+   "status": "pending-source",
+   "source": "question text read from https://marketjoy.com/faqs/ ; answer NOT in any provided export",
+   "liveSections": [
+    "faqs-more"
+   ]
+  },
+  {
+   "question": "How to Know If It Works In My Favor?",
+   "category": null,
+   "answer": null,
+   "status": "pending-source",
+   "source": "question text read from https://marketjoy.com/faqs/ ; answer NOT in any provided export",
+   "liveSections": [
+    "faqs-more"
+   ]
+  },
+  {
+   "question": "Which Language Do You Use?",
+   "category": null,
+   "answer": null,
+   "status": "pending-source",
+   "source": "question text read from https://marketjoy.com/faqs/ ; answer NOT in any provided export",
+   "liveSections": [
+    "faqs-more"
+   ]
+  },
+  {
+   "question": "Do you work outside U.S.?",
+   "category": null,
+   "answer": null,
+   "status": "pending-source",
+   "source": "question text read from https://marketjoy.com/faqs/ ; answer NOT in any provided export",
+   "liveSections": [
+    "faqs-more"
+   ]
+  },
+  {
+   "question": "What's your pricing?",
+   "category": null,
+   "answer": null,
+   "status": "pending-source",
+   "source": "question text read from https://marketjoy.com/faqs/ ; answer NOT in any provided export",
+   "liveSections": [
+    "faqs-more"
+   ]
+  }
+ ]
+}

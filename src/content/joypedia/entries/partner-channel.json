@@ -1,0 +1,26 @@
+{
+ "id": 12911,
+ "slug": "partner-channel",
+ "path": "/joypedia/partner-channel/",
+ "sourceUrl": "https://marketjoy.com/joypedia/partner-channel/",
+ "title": "Partner Channel",
+ "date": "2026-03-05T11:32:33",
+ "modified": "2026-03-05T11:32:33",
+ "sourceFormat": "plain-html",
+ "excerpt": "A revenue stream generated through third-party partners such as resellers, distributors, affiliates, or strategic alliances that sell or promote a company’s...",
+ "seo": {
+  "title": null,
+  "description": null,
+  "canonical": null,
+  "robots": null,
+  "note": "Not present in export (no Yoast/RankMath fields). excerpt is derived from the body."
+ },
+ "featuredImage": null,
+ "acf": null,
+ "blocks": [
+  {
+   "t": "p",
+   "html": "A revenue stream generated through third-party partners such as resellers, distributors, affiliates, or strategic alliances that sell or promote a company’s offerings."
+  }
+ ]
+}

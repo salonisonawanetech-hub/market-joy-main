@@ -1,0 +1,120 @@
+{
+ "id": 12820,
+ "slug": "customer-relationship-management-crm",
+ "path": "/joypedia/customer-relationship-management-crm/",
+ "sourceUrl": "https://marketjoy.com/joypedia/customer-relationship-management-crm/",
+ "title": "Customer Relationship Management (CRM)",
+ "date": "2026-03-04T14:23:46",
+ "modified": "2026-08-07T09:00:20",
+ "sourceFormat": "elementor",
+ "excerpt": "Customer Relationship Management (CRM) refers to the strategies, processes, and technologies used by businesses to manage interactions with prospects and...",
+ "seo": {
+  "title": null,
+  "description": null,
+  "canonical": null,
+  "robots": null,
+  "note": "Not present in export (no Yoast/RankMath fields). excerpt is derived from the body."
+ },
+ "featuredImage": null,
+ "acf": null,
+ "blocks": [
+  {
+   "t": "h2",
+   "text": "Definition"
+  },
+  {
+   "t": "p",
+   "html": "Customer Relationship Management (CRM) refers to the strategies, processes, and technologies used by businesses to manage interactions with prospects and customers throughout the entire sales lifecycle."
+  },
+  {
+   "t": "h2",
+   "text": "Overview"
+  },
+  {
+   "t": "p",
+   "html": "CRM is both a business approach and a software solution that helps organizations centralize customer data, streamline communication, and improve relationship management. It enables teams across sales, marketing, and customer support to collaborate more effectively and deliver a consistent customer experience."
+  },
+  {
+   "t": "h2",
+   "text": "How It Works"
+  },
+  {
+   "t": "p",
+   "html": "A CRM system collects and organizes customer information and interactions in one place, allowing teams to:"
+  },
+  {
+   "t": "ul",
+   "variant": "check",
+   "items": [
+    {
+     "title": null,
+     "html": "Track leads and manage sales pipelines"
+    },
+    {
+     "title": null,
+     "html": "Store contact details and communication history"
+    },
+    {
+     "title": null,
+     "html": "Automate follow-ups, reminders, and workflows"
+    },
+    {
+     "title": null,
+     "html": "Monitor customer interactions across channels"
+    },
+    {
+     "title": null,
+     "html": "Generate reports and insights for decision-making"
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "html": "Improves lead and pipeline managemen"
+  },
+  {
+   "t": "p",
+   "html": "Enhances customer relationships and engagement"
+  },
+  {
+   "t": "p",
+   "html": "Increases sales productivity and efficiency"
+  },
+  {
+   "t": "p",
+   "html": "Enables data-driven decision-making"
+  },
+  {
+   "t": "p",
+   "html": "Supports better customer retention and satisfaction"
+  },
+  {
+   "t": "p",
+   "html": "This centralized approach ensures better visibility and coordination across teams."
+  },
+  {
+   "t": "h2",
+   "text": "Benefits of CRM:"
+  },
+  {
+   "t": "h2",
+   "text": "Example"
+  },
+  {
+   "t": "p",
+   "html": "A sales team uses a CRM platform to track all interactions with prospects, schedule follow-ups, and monitor deal progress—ensuring no opportunity is missed and communication remains consistent."
+  },
+  {
+   "t": "h2",
+   "text": "Summary"
+  },
+  {
+   "t": "p",
+   "html": "Customer Relationship Management is essential for building and maintaining strong customer relationships. By leveraging CRM systems, businesses can streamline operations, improve collaboration, and drive better sales outcomes."
+  },
+  {
+   "t": "cta",
+   "html": "Streamline your customer relationships and close deals faster. MarketJoy helps you leverage CRM-driven strategies to manage leads, nurture prospects, and drive consistent growth."
+  }
+ ]
+}

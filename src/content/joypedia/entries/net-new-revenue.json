@@ -1,0 +1,116 @@
+{
+ "id": 12879,
+ "slug": "net-new-revenue",
+ "path": "/joypedia/net-new-revenue/",
+ "sourceUrl": "https://marketjoy.com/joypedia/net-new-revenue/",
+ "title": "Net New Revenue",
+ "date": "2026-03-05T09:59:06",
+ "modified": "2026-08-10T10:46:59",
+ "sourceFormat": "elementor",
+ "excerpt": "Net New Revenue is the total revenue generated from newly acquired customers within a specific period, excluding renewals, upsells, or existing account...",
+ "seo": {
+  "title": null,
+  "description": null,
+  "canonical": null,
+  "robots": null,
+  "note": "Not present in export (no Yoast/RankMath fields). excerpt is derived from the body."
+ },
+ "featuredImage": null,
+ "acf": null,
+ "blocks": [
+  {
+   "t": "h2",
+   "text": "Definition"
+  },
+  {
+   "t": "p",
+   "html": "Net New Revenue is the total revenue generated from newly acquired customers within a specific period, excluding renewals, upsells, or existing account expansions."
+  },
+  {
+   "t": "h2",
+   "text": "Overview"
+  },
+  {
+   "t": "p",
+   "html": "Net New Revenue is a key growth metric that reflects how much new business a company is generating. It focuses purely on revenue from new customers, making it an important indicator of acquisition performance and market expansion effectiveness."
+  },
+  {
+   "t": "h2",
+   "text": "How It Works"
+  },
+  {
+   "t": "p",
+   "html": "Net New Revenue is calculated by summing all revenue generated from first-time customers during a specific timeframe. It excludes:"
+  },
+  {
+   "t": "ul",
+   "variant": "check",
+   "items": [
+    {
+     "title": null,
+     "html": "Renewals from existing customers"
+    },
+    {
+     "title": null,
+     "html": "Upsells or cross-sells"
+    },
+    {
+     "title": null,
+     "html": "Expansion revenue from current accounts"
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "html": "It is typically tracked monthly, quarterly, or annually to measure acquisition performance."
+  },
+  {
+   "t": "p",
+   "html": "Measures effectiveness of customer acquisition efforts"
+  },
+  {
+   "t": "p",
+   "html": "Tracks true new business growth"
+  },
+  {
+   "t": "p",
+   "html": "Helps evaluate marketing and sales performance"
+  },
+  {
+   "t": "p",
+   "html": "Supports revenue forecasting and planning"
+  },
+  {
+   "t": "p",
+   "html": "Identifies successful acquisition channels"
+  },
+  {
+   "t": "p",
+   "html": "Provides clarity on growth vs. retention contribution"
+  },
+  {
+   "t": "h2",
+   "text": "Benefits of Net New Revenue:"
+  },
+  {
+   "t": "h2",
+   "text": "Example"
+  },
+  {
+   "t": "p",
+   "html": "A company generates ₹50 lakh in revenue from new customers in a quarter. This amount represents its Net New Revenue for that period."
+  },
+  {
+   "t": "h2",
+   "text": "Summary"
+  },
+  {
+   "t": "p",
+   "html": "Net New Revenue is a critical metric for understanding how effectively a business is acquiring new customers and expanding its market presence. It provides clear insight into top-line growth driven by new business."
+  },
+  {
+   "t": "cta",
+   "html": "Accelerate new customer acquisition. MarketJoy helps businesses generate qualified leads, convert prospects, and drive consistent net new revenue growth."
+  }
+ ]
+}

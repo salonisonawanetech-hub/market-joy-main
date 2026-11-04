@@ -1,0 +1,128 @@
+{
+ "id": 12960,
+ "slug": "value-based-selling",
+ "path": "/joypedia/value-based-selling/",
+ "sourceUrl": "https://marketjoy.com/joypedia/value-based-selling/",
+ "title": "Value-Based Selling",
+ "date": "2026-03-05T12:50:17",
+ "modified": "2026-08-06T06:44:03",
+ "sourceFormat": "elementor",
+ "excerpt": "Value-Based Selling is a sales approach and pricing strategy that focuses on the measurable business outcomes and value delivered to the customer, rather...",
+ "seo": {
+  "title": null,
+  "description": null,
+  "canonical": null,
+  "robots": null,
+  "note": "Not present in export (no Yoast/RankMath fields). excerpt is derived from the body."
+ },
+ "featuredImage": null,
+ "acf": null,
+ "blocks": [
+  {
+   "t": "h2",
+   "text": "Definition"
+  },
+  {
+   "t": "p",
+   "html": "Value-Based Selling is a sales approach and pricing strategy that focuses on the measurable business outcomes and value delivered to the customer, rather than competing primarily on product features or price."
+  },
+  {
+   "t": "h2",
+   "text": "Overview"
+  },
+  {
+   "t": "p",
+   "html": "Value-based selling shifts the conversation from cost to results. Instead of emphasizing features alone, sales teams focus on ROI, efficiency gains, revenue impact, or risk reduction the customer can achieve."
+  },
+  {
+   "t": "h2",
+   "text": "How It Works"
+  },
+  {
+   "t": "p",
+   "html": "Value-based selling typically involves:"
+  },
+  {
+   "t": "ul",
+   "variant": "check",
+   "items": [
+    {
+     "title": null,
+     "html": "Understanding customer pain points"
+    },
+    {
+     "title": null,
+     "html": "Quantifying current business challenges"
+    },
+    {
+     "title": null,
+     "html": "Linking solutions to measurable outcomes"
+    },
+    {
+     "title": null,
+     "html": "Demonstrating ROI or cost savings"
+    },
+    {
+     "title": null,
+     "html": "Personalizing the business case"
+    },
+    {
+     "title": null,
+     "html": "Handling price objections through value discussions"
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "html": "This approach is especially effective in B2B and consultative sales environments."
+  },
+  {
+   "t": "p",
+   "html": "Reduces price-based competition"
+  },
+  {
+   "t": "p",
+   "html": "Increases average deal size"
+  },
+  {
+   "t": "p",
+   "html": "Builds stronger buyer trust"
+  },
+  {
+   "t": "p",
+   "html": "Improves close rates"
+  },
+  {
+   "t": "p",
+   "html": "Supports premium pricing"
+  },
+  {
+   "t": "p",
+   "html": "Creates longer-term customer relationships"
+  },
+  {
+   "t": "h2",
+   "text": "Benefits of Value-Based Selling:"
+  },
+  {
+   "t": "h2",
+   "text": "Example"
+  },
+  {
+   "t": "p",
+   "html": "Instead of selling software for its features, a rep shows how it can save 20 hours per week and reduce operating costs by ₹5 lakh annually."
+  },
+  {
+   "t": "h2",
+   "text": "Summary"
+  },
+  {
+   "t": "p",
+   "html": "Value-Based Selling is a sales strategy focused on business outcomes and ROI rather than price alone."
+  },
+  {
+   "t": "cta",
+   "html": "Win deals on value, not discounts. MarketJoy helps businesses implement value-based selling strategies that improve revenue and close rates."
+  }
+ ]
+}

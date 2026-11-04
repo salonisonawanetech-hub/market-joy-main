@@ -1,0 +1,130 @@
+{
+ "id": 12876,
+ "slug": "net-revenue-retention-nrr",
+ "path": "/joypedia/net-revenue-retention-nrr/",
+ "sourceUrl": "https://marketjoy.com/joypedia/net-revenue-retention-nrr/",
+ "title": "Net Revenue Retention (NRR)",
+ "date": "2026-03-05T09:58:06",
+ "modified": "2026-08-10T10:36:10",
+ "sourceFormat": "elementor",
+ "excerpt": "Net Revenue Retention (NRR) is a metric that measures the percentage of recurring revenue retained from existing customers over a specific period, including...",
+ "seo": {
+  "title": null,
+  "description": null,
+  "canonical": null,
+  "robots": null,
+  "note": "Not present in export (no Yoast/RankMath fields). excerpt is derived from the body."
+ },
+ "featuredImage": null,
+ "acf": null,
+ "blocks": [
+  {
+   "t": "h2",
+   "text": "Definition"
+  },
+  {
+   "t": "p",
+   "html": "Net Revenue Retention (NRR) is a metric that measures the percentage of recurring revenue retained from existing customers over a specific period, including expansions, upgrades, and churn. It reflects how effectively a company grows revenue from its current customer base while accounting for lost revenue from cancellations or downgrades."
+  },
+  {
+   "t": "h2",
+   "text": "Overview"
+  },
+  {
+   "t": "p",
+   "html": "NRR is a key SaaS and subscription-based business metric used to evaluate customer retention and expansion performance. It provides a clear view of how much revenue is being retained and grown within the existing customer base, making it a strong indicator of long-term business health and product value."
+  },
+  {
+   "t": "h2",
+   "text": "How It Works"
+  },
+  {
+   "t": "p",
+   "html": "NRR is calculated using the formula:"
+  },
+  {
+   "t": "ul",
+   "variant": "check",
+   "items": [
+    {
+     "title": "((Starting Revenue + Expansion Revenue − Churned Revenue − Downgraded Revenue) ÷ Starting Revenue) × 100",
+     "html": ""
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "html": "Where:"
+  },
+  {
+   "t": "ul",
+   "variant": "check",
+   "items": [
+    {
+     "title": "Starting Revenue",
+     "html": "is recurring revenue at the beginning of the period"
+    },
+    {
+     "title": "Expansion Revenue",
+     "html": "comes from upsells or cross-sells"
+    },
+    {
+     "title": "Churned Revenue",
+     "html": "is lost from cancellations"
+    },
+    {
+     "title": "Downgraded Revenue",
+     "html": "is loss from reduced subscriptions"
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "html": "Measures customer retention and growth efficiency"
+  },
+  {
+   "t": "p",
+   "html": "Highlights revenue expansion within existing accounts"
+  },
+  {
+   "t": "p",
+   "html": "Indicates product value and customer satisfaction"
+  },
+  {
+   "t": "p",
+   "html": "Supports forecasting and investor confidence"
+  },
+  {
+   "t": "p",
+   "html": "Identifies churn and upsell opportunities"
+  },
+  {
+   "t": "p",
+   "html": "Improves long-term revenue planning"
+  },
+  {
+   "t": "h2",
+   "text": "Benefits of NRR:"
+  },
+  {
+   "t": "h2",
+   "text": "Example"
+  },
+  {
+   "t": "p",
+   "html": "A company starts with ₹10 lakh in monthly recurring revenue. It gains ₹2 lakh from upgrades but loses ₹1 lakh from churn, resulting in an NRR of 110%."
+  },
+  {
+   "t": "h2",
+   "text": "Summary"
+  },
+  {
+   "t": "p",
+   "html": "Net Revenue Retention is a critical growth metric that shows how well a business retains and expands revenue from existing customers. A high NRR indicates strong customer satisfaction and scalable growth potential."
+  },
+  {
+   "t": "cta",
+   "html": "Grow revenue from your existing customers. MarketJoy helps businesses improve retention, increase expansion revenue, and drive stronger NRR performance."
+  }
+ ]
+}

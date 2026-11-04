@@ -1,0 +1,116 @@
+{
+ "id": 12818,
+ "slug": "content-marketing",
+ "path": "/joypedia/content-marketing/",
+ "sourceUrl": "https://marketjoy.com/joypedia/content-marketing/",
+ "title": "Content Marketing",
+ "date": "2026-03-04T14:22:41",
+ "modified": "2026-08-07T08:45:32",
+ "sourceFormat": "elementor",
+ "excerpt": "Content Marketing is a strategic approach focused on creating and distributing valuable, relevant, and educational content to attract, engage, and convert a...",
+ "seo": {
+  "title": null,
+  "description": null,
+  "canonical": null,
+  "robots": null,
+  "note": "Not present in export (no Yoast/RankMath fields). excerpt is derived from the body."
+ },
+ "featuredImage": null,
+ "acf": null,
+ "blocks": [
+  {
+   "t": "h2",
+   "text": "Definition"
+  },
+  {
+   "t": "p",
+   "html": "Content Marketing is a strategic approach focused on creating and distributing valuable, relevant, and educational content to attract, engage, and convert a target audience."
+  },
+  {
+   "t": "h2",
+   "text": "Overview"
+  },
+  {
+   "t": "p",
+   "html": "Content marketing centers on delivering meaningful information rather than direct sales messaging. By addressing audience needs, challenges, and interests, businesses can build trust, establish authority, and guide prospects through the buyer journey."
+  },
+  {
+   "t": "h2",
+   "text": "How It Works"
+  },
+  {
+   "t": "p",
+   "html": "Content marketing involves planning, creating, and sharing content across multiple channels, including:"
+  },
+  {
+   "t": "ul",
+   "variant": "check",
+   "items": [
+    {
+     "title": null,
+     "html": "Blog posts, articles, and whitepapers"
+    },
+    {
+     "title": null,
+     "html": "Ebooks, case studies, and guides"
+    },
+    {
+     "title": null,
+     "html": "Videos, webinars, and podcasts"
+    },
+    {
+     "title": null,
+     "html": "Social media posts and newsletters"
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "html": "Builds brand awareness and credibility"
+  },
+  {
+   "t": "p",
+   "html": "Attracts and engages target audiences"
+  },
+  {
+   "t": "p",
+   "html": "Generates and nurtures high-quality leads"
+  },
+  {
+   "t": "p",
+   "html": "Supports SEO and organic traffic growth"
+  },
+  {
+   "t": "p",
+   "html": "Improves conversion rates over time"
+  },
+  {
+   "t": "p",
+   "html": "This content is designed to educate and nurture prospects at different stages—awareness, consideration, and decision—while subtly positioning the brand as a trusted solution provider."
+  },
+  {
+   "t": "h2",
+   "text": "Benefits of Content Marketing:"
+  },
+  {
+   "t": "h2",
+   "text": "Example"
+  },
+  {
+   "t": "p",
+   "html": "A B2B company publishes industry reports and how-to guides that address common challenges faced by its audience. Over time, this content attracts qualified prospects and nurtures them toward making a purchase."
+  },
+  {
+   "t": "h2",
+   "text": "Summary"
+  },
+  {
+   "t": "p",
+   "html": "Content marketing is a powerful long-term strategy for driving engagement and building relationships with potential customers. By consistently delivering value, businesses can influence decisions and achieve sustainable growth."
+  },
+  {
+   "t": "cta",
+   "html": "Turn content into a growth engine. MarketJoy helps you create and distribute high-impact content that attracts, engages, and converts your ideal audience."
+  }
+ ]
+}

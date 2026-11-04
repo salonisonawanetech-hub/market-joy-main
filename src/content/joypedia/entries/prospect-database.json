@@ -1,0 +1,26 @@
+{
+ "id": 12914,
+ "slug": "prospect-database",
+ "path": "/joypedia/prospect-database/",
+ "sourceUrl": "https://marketjoy.com/joypedia/prospect-database/",
+ "title": "Prospect Database",
+ "date": "2026-03-05T11:34:09",
+ "modified": "2026-03-05T11:34:09",
+ "sourceFormat": "plain-html",
+ "excerpt": "An organized and continuously updated repository of potential customer information, including contact details, firmographics, and engagement history, used...",
+ "seo": {
+  "title": null,
+  "description": null,
+  "canonical": null,
+  "robots": null,
+  "note": "Not present in export (no Yoast/RankMath fields). excerpt is derived from the body."
+ },
+ "featuredImage": null,
+ "acf": null,
+ "blocks": [
+  {
+   "t": "p",
+   "html": "An organized and continuously updated repository of potential customer information, including contact details, firmographics, and engagement history, used for targeted outreach."
+  }
+ ]
+}

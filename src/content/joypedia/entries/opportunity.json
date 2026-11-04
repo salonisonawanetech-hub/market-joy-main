@@ -1,0 +1,124 @@
+{
+ "id": 12892,
+ "slug": "opportunity",
+ "path": "/joypedia/opportunity/",
+ "sourceUrl": "https://marketjoy.com/joypedia/opportunity/",
+ "title": "Opportunity",
+ "date": "2026-03-05T11:20:10",
+ "modified": "2026-08-10T10:52:26",
+ "sourceFormat": "elementor",
+ "excerpt": "An Opportunity is a qualified sales prospect that has a high potential to convert into a paying customer. It typically arises after a lead has been vetted...",
+ "seo": {
+  "title": null,
+  "description": null,
+  "canonical": null,
+  "robots": null,
+  "note": "Not present in export (no Yoast/RankMath fields). excerpt is derived from the body."
+ },
+ "featuredImage": null,
+ "acf": null,
+ "blocks": [
+  {
+   "t": "h2",
+   "text": "Definition"
+  },
+  {
+   "t": "p",
+   "html": "An Opportunity is a qualified sales prospect that has a high potential to convert into a paying customer. It typically arises after a lead has been vetted and demonstrates a clear need, budget, authority, and timeline, allowing the sales team to actively pursue closing the deal."
+  },
+  {
+   "t": "h2",
+   "text": "Overview"
+  },
+  {
+   "t": "p",
+   "html": "Opportunities represent the most advanced stage of the sales pipeline before a deal is won. At this stage, the prospect has moved beyond initial interest and is actively evaluating solutions or negotiating terms. Sales teams focus on managing relationships, addressing objections, and progressing the deal toward closure."
+  },
+  {
+   "t": "h2",
+   "text": "How It Works"
+  },
+  {
+   "t": "p",
+   "html": "A lead becomes an opportunity when it meets qualification criteria such as:"
+  },
+  {
+   "t": "ul",
+   "variant": "check",
+   "items": [
+    {
+     "title": null,
+     "html": "Clear business need or pain point"
+    },
+    {
+     "title": null,
+     "html": "Defined budget for purchase"
+    },
+    {
+     "title": null,
+     "html": "Decision-making authority identified"
+    },
+    {
+     "title": null,
+     "html": "Expected purchase timeline established"
+    },
+    {
+     "title": null,
+     "html": "Active engagement with sales team"
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "html": "Once qualified, opportunities are tracked in the CRM and managed through stages like discovery, proposal, negotiation, and closure."
+  },
+  {
+   "t": "p",
+   "html": "Improves sales pipeline visibility"
+  },
+  {
+   "t": "p",
+   "html": "Increases forecast accuracy"
+  },
+  {
+   "t": "p",
+   "html": "Helps prioritize high-value deals"
+  },
+  {
+   "t": "p",
+   "html": "Enhances deal tracking and control"
+  },
+  {
+   "t": "p",
+   "html": "Supports structured sales execution"
+  },
+  {
+   "t": "p",
+   "html": "Improves win rates through focused engagement"
+  },
+  {
+   "t": "h2",
+   "text": "Benefits of Managing Opportunities:"
+  },
+  {
+   "t": "h2",
+   "text": "Example"
+  },
+  {
+   "t": "p",
+   "html": "A company that requests a detailed proposal after multiple product demos and confirms budget approval is converted into a sales opportunity."
+  },
+  {
+   "t": "h2",
+   "text": "Summary"
+  },
+  {
+   "t": "p",
+   "html": "An Opportunity is a key stage in the sales process where qualified leads are actively pursued for conversion. Effective opportunity management helps businesses improve close rates and drive revenue growth."
+  },
+  {
+   "t": "cta",
+   "html": "Convert qualified prospects into revenue. MarketJoy helps businesses manage opportunities effectively, improve pipeline visibility, and close deals faster."
+  }
+ ]
+}

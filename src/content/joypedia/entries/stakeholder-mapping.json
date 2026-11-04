@@ -1,0 +1,128 @@
+{
+ "id": 12933,
+ "slug": "stakeholder-mapping",
+ "path": "/joypedia/stakeholder-mapping/",
+ "sourceUrl": "https://marketjoy.com/joypedia/stakeholder-mapping/",
+ "title": "Stakeholder Mapping",
+ "date": "2026-03-05T12:10:43",
+ "modified": "2026-07-31T10:07:46",
+ "sourceFormat": "elementor",
+ "excerpt": "Stakeholder Mapping is the process of identifying key decision-makers, influencers, and end users within a target account, and analyzing their roles...",
+ "seo": {
+  "title": null,
+  "description": null,
+  "canonical": null,
+  "robots": null,
+  "note": "Not present in export (no Yoast/RankMath fields). excerpt is derived from the body."
+ },
+ "featuredImage": null,
+ "acf": null,
+ "blocks": [
+  {
+   "t": "h2",
+   "text": "Definition"
+  },
+  {
+   "t": "p",
+   "html": "Stakeholder Mapping is the process of identifying key decision-makers, influencers, and end users within a target account, and analyzing their roles, interests, and level of influence to develop a structured engagement strategy."
+  },
+  {
+   "t": "h2",
+   "text": "Overview"
+  },
+  {
+   "t": "p",
+   "html": "In complex B2B sales, multiple stakeholders are involved in purchasing decisions. Stakeholder mapping helps sales teams understand who is involved, what each stakeholder cares about, and how they influence the buying process. This enables more targeted and effective engagement strategies."
+  },
+  {
+   "t": "h2",
+   "text": "How It Works"
+  },
+  {
+   "t": "p",
+   "html": "Stakeholder mapping includes:"
+  },
+  {
+   "t": "ul",
+   "variant": "check",
+   "items": [
+    {
+     "title": null,
+     "html": "Identifying all relevant stakeholders in an account"
+    },
+    {
+     "title": null,
+     "html": "Categorizing roles (decision-makers, influencers, users, blockers)"
+    },
+    {
+     "title": null,
+     "html": "Understanding priorities and motivations"
+    },
+    {
+     "title": null,
+     "html": "Assessing influence and decision-making power"
+    },
+    {
+     "title": null,
+     "html": "Mapping relationships between stakeholders"
+    },
+    {
+     "title": null,
+     "html": "Developing personalized engagement plans"
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "html": "Improves account-based selling effectiveness"
+  },
+  {
+   "t": "p",
+   "html": "Enhances personalization of outreach"
+  },
+  {
+   "t": "p",
+   "html": "Reduces risk of missed decision-makers"
+  },
+  {
+   "t": "p",
+   "html": "Improves deal strategy and alignment"
+  },
+  {
+   "t": "p",
+   "html": "Increases win rates in complex sales"
+  },
+  {
+   "t": "p",
+   "html": "Strengthens relationship management"
+  },
+  {
+   "t": "p",
+   "html": "This information is often visualized in stakeholder maps or org charts."
+  },
+  {
+   "t": "h2",
+   "text": "Benefits of Stakeholder Mapping:"
+  },
+  {
+   "t": "h2",
+   "text": "Example"
+  },
+  {
+   "t": "p",
+   "html": "A sales team maps out a procurement manager, CTO, and finance head within a target company and tailors messaging for each stakeholder’s priorities."
+  },
+  {
+   "t": "h2",
+   "text": "Summary"
+  },
+  {
+   "t": "p",
+   "html": "Stakeholder Mapping helps sales teams navigate complex buying groups by identifying key influencers and tailoring engagement strategies accordingly."
+  },
+  {
+   "t": "cta",
+   "html": "Win complex deals with precision. MarketJoy helps businesses map stakeholders effectively to improve engagement, alignment, and deal success."
+  }
+ ]
+}

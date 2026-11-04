@@ -1,0 +1,128 @@
+{
+ "id": 12954,
+ "slug": "unit-economics",
+ "path": "/joypedia/unit-economics/",
+ "sourceUrl": "https://marketjoy.com/joypedia/unit-economics/",
+ "title": "Unit Economics",
+ "date": "2026-03-05T12:36:49",
+ "modified": "2026-08-05T10:20:27",
+ "sourceFormat": "elementor",
+ "excerpt": "Unit Economics is a financial analysis that evaluates the revenue and costs associated with a single customer, product, or transaction to determine...",
+ "seo": {
+  "title": null,
+  "description": null,
+  "canonical": null,
+  "robots": null,
+  "note": "Not present in export (no Yoast/RankMath fields). excerpt is derived from the body."
+ },
+ "featuredImage": null,
+ "acf": null,
+ "blocks": [
+  {
+   "t": "h2",
+   "text": "Definition"
+  },
+  {
+   "t": "p",
+   "html": "Unit Economics is a financial analysis that evaluates the revenue and costs associated with a single customer, product, or transaction to determine profitability and scalability."
+  },
+  {
+   "t": "h2",
+   "text": "Overview"
+  },
+  {
+   "t": "p",
+   "html": "Unit economics helps businesses understand whether their model is financially sustainable at the most basic level. By measuring profit or loss per unit, companies can make smarter decisions around pricing, customer acquisition, and long-term growth."
+  },
+  {
+   "t": "h2",
+   "text": "How It Works"
+  },
+  {
+   "t": "p",
+   "html": "Unit economics typically examines:"
+  },
+  {
+   "t": "ul",
+   "variant": "check",
+   "items": [
+    {
+     "title": null,
+     "html": "Revenue generated per customer or sale"
+    },
+    {
+     "title": null,
+     "html": "Cost of goods sold (COGS)"
+    },
+    {
+     "title": null,
+     "html": "Customer acquisition cost (CAC)"
+    },
+    {
+     "title": null,
+     "html": "Gross margin per unit"
+    },
+    {
+     "title": null,
+     "html": "Operational or servicing costs"
+    },
+    {
+     "title": null,
+     "html": "Customer lifetime value (LTV)"
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "html": "Businesses use these metrics to assess whether growth creates profit or simply increases losses."
+  },
+  {
+   "t": "p",
+   "html": "Reveals business profitability drivers"
+  },
+  {
+   "t": "p",
+   "html": "Supports smarter pricing decisions"
+  },
+  {
+   "t": "p",
+   "html": "Improves growth planning"
+  },
+  {
+   "t": "p",
+   "html": "Identifies inefficient spending"
+  },
+  {
+   "t": "p",
+   "html": "Helps attract investors"
+  },
+  {
+   "t": "p",
+   "html": "Measures scalability potential"
+  },
+  {
+   "t": "h2",
+   "text": "Benefits of Unit Economics:"
+  },
+  {
+   "t": "h2",
+   "text": "Example"
+  },
+  {
+   "t": "p",
+   "html": "A subscription company earns ₹5,000 from a customer while spending ₹2,000 to acquire and service them, creating positive unit economics."
+  },
+  {
+   "t": "h2",
+   "text": "Summary"
+  },
+  {
+   "t": "p",
+   "html": "Unit Economics measures the profitability of one customer, product, or transaction to determine whether a business can scale sustainably."
+  },
+  {
+   "t": "cta",
+   "html": "Build a stronger growth model. MarketJoy helps businesses improve unit economics through smarter acquisition strategies and higher customer value."
+  }
+ ]
+}

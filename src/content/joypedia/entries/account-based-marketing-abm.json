@@ -1,0 +1,154 @@
+{
+ "id": 12746,
+ "slug": "account-based-marketing-abm",
+ "path": "/joypedia/account-based-marketing-abm/",
+ "sourceUrl": "https://marketjoy.com/joypedia/account-based-marketing-abm/",
+ "title": "Account-Based Marketing (ABM)",
+ "date": "2026-03-04T09:47:12",
+ "modified": "2026-07-31T06:50:29",
+ "sourceFormat": "elementor",
+ "excerpt": "Account-Based Marketing (ABM) is a strategic B2B marketing approach in which sales and marketing teams collaborate to identify, engage, and convert...",
+ "seo": {
+  "title": null,
+  "description": null,
+  "canonical": null,
+  "robots": null,
+  "note": "Not present in export (no Yoast/RankMath fields). excerpt is derived from the body."
+ },
+ "featuredImage": null,
+ "acf": null,
+ "blocks": [
+  {
+   "t": "h2",
+   "text": "Definition"
+  },
+  {
+   "t": "p",
+   "html": "Account-Based Marketing (ABM) is a strategic B2B marketing approach in which sales and marketing teams collaborate to identify, engage, and convert high-value target accounts. Instead of focusing on generating a large volume of individual leads, ABM concentrates resources on specific companies that best match the ideal customer profile (ICP)."
+  },
+  {
+   "t": "h2",
+   "text": "Overview"
+  },
+  {
+   "t": "p",
+   "html": "ABM shifts the traditional lead generation model from quantity to quality. It treats each target account as a “market of one,” delivering highly personalized campaigns tailored to the needs, challenges, and goals of that specific organization."
+  },
+  {
+   "t": "h2",
+   "text": "How ABM Works"
+  },
+  {
+   "t": "ul",
+   "variant": "check",
+   "items": [
+    {
+     "title": "Identify Target Accounts:",
+     "html": "Select high-value companies based on ICP and revenue potential"
+    },
+    {
+     "title": "Map Key Stakeholders:",
+     "html": "Identify decision-makers and influencers within each account"
+    },
+    {
+     "title": "Create Personalized Campaigns:",
+     "html": "Develop tailored messaging, content, and outreach"
+    },
+    {
+     "title": "Engage Across Channels:",
+     "html": "Use email, LinkedIn, ads, events, and direct outreach"
+    },
+    {
+     "title": "Align Sales & Marketing:",
+     "html": "Ensure both teams collaborate closely throughout the journey"
+    },
+    {
+     "title": "Measure & Optimize:",
+     "html": "Track engagement, pipeline growth, and deal conversions"
+    }
+   ]
+  },
+  {
+   "t": "h2",
+   "text": "Why ABM Matters"
+  },
+  {
+   "t": "h2",
+   "text": "Higher ROI"
+  },
+  {
+   "t": "p",
+   "html": "Focuses efforts on accounts most likely to convert"
+  },
+  {
+   "t": "h2",
+   "text": "Improved alignment"
+  },
+  {
+   "t": "p",
+   "html": "Brings sales and marketing into a unified strategy"
+  },
+  {
+   "t": "h2",
+   "text": "Shorter sales cyclesent"
+  },
+  {
+   "t": "p",
+   "html": "Personalized engagement accelerates decision-making"
+  },
+  {
+   "t": "h2",
+   "text": "Better customer relationships"
+  },
+  {
+   "t": "p",
+   "html": "Builds deeper connections with key stakeholders"
+  },
+  {
+   "t": "h2",
+   "text": "Key Benefits of ABM"
+  },
+  {
+   "t": "ul",
+   "variant": "check",
+   "items": [
+    {
+     "title": null,
+     "html": "Increased deal sizes and revenue per account"
+    },
+    {
+     "title": null,
+     "html": "More efficient use of marketing and sales resources"
+    },
+    {
+     "title": null,
+     "html": "Higher conversion rates compared to traditional lead generation"
+    },
+    {
+     "title": null,
+     "html": "Enhanced customer experience through personalization"
+    }
+   ]
+  },
+  {
+   "t": "h2",
+   "text": "Example Use Case"
+  },
+  {
+   "t": "p",
+   "html": "A B2B SaaS company targets 50 enterprise accounts instead of thousands of leads. By delivering personalized content and coordinated outreach, they secure multiple high-value deals, significantly increasing their pipeline quality and revenue."
+  },
+  {
+   "t": "h2",
+   "text": "Summary"
+  },
+  {
+   "t": "p",
+   "html": "ABM is a focused, personalized marketing strategy designed to win high-value accounts. By aligning sales and marketing and targeting the right companies, businesses can drive stronger engagement, larger deals, and more predictable growth."
+  },
+  {
+   "t": "cta",
+   "html": "Ready to target high-value accounts and boost conversions? Partner with MarketJoy to build a powerful ABM strategy that drives real results. <a href=\"https://meetings.hubspot.com/curtis-bendt/inbound-round-robin-for-discovery-calls?uuid=6658938c-9ecf-49d9-8192-a6a8bd798711\" target=\"_blank\" rel=\"noopener noreferrer\">Book your free strategy call here</a>"
+  }
+ ]
+}

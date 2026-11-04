@@ -1,0 +1,137 @@
+[
+  {
+    "slug": "ai-seo-services",
+    "kind": "service",
+    "path": "/ai-seo-services/",
+    "title": "Future-Proof Your Search Visibility with AI-Powered SEO",
+    "parent": null,
+    "description": "AI SEO Services from MarketJoy improve search rankings, boost AI visibility, attract qualified traffic, and generate high-quality leads.",
+    "ogImage": "/wp-content/uploads/2026/07/Screenshot-2026-07-09-at-23.14.24.png"
+  },
+  {
+    "slug": "answer-engine-optimization-services",
+    "kind": "service",
+    "path": "/answer-engine-optimization-services/",
+    "title": "AI-Powered Search",
+    "parent": null,
+    "description": "Answer Engine Optimization Services help your brand stand out in AI search, earn greater visibility, and turn relevant searches into qualified opportunities.",
+    "ogImage": "/wp-content/uploads/2026/07/laptop-02-1.webp"
+  },
+  {
+    "slug": "appointment-generation-setting",
+    "kind": "service",
+    "path": "/appointment-generation-setting/",
+    "title": "US Appointment Generation and Setting Services for Scalable B2B Growth",
+    "parent": null,
+    "description": "Appointment generation & setting services for B2B Businesses. Scale your business with our b2b appointment generation and setting services for maximum growth",
+    "ogImage": ""
+  },
+  {
+    "slug": "b2b-lead-generation-services",
+    "kind": "service",
+    "path": "/b2b-lead-generation-services/",
+    "title": "Data-Driven B2B Lead Generation Services That Deliver Sales-Qualified Revenue",
+    "parent": null,
+    "description": "B2B Lead Generation Services help you reach decision-makers, target high-intent buyers, and generate sales-qualified leads through data-driven outreach with MarketJoy.",
+    "ogImage": "/wp-content/uploads/2026/10/chart-600.webp"
+  },
+  {
+    "slug": "b2b-list-building-services",
+    "kind": "service",
+    "path": "/b2b-list-building-services/",
+    "title": "B2B Lead Generation & Sales Qualified Leads(SQL) Services",
+    "parent": null,
+    "description": "MarketJoy provides tailored b2b lead generation services and is a leading provider of sales qualified leads. We identify high quality prospects using…",
+    "ogImage": "/wp-content/uploads/2025/08/b2b-list-building.png"
+  },
+  {
+    "slug": "digital-marketing",
+    "kind": "service",
+    "path": "/digital-marketing/",
+    "title": "Digital Marketing Services & Lead Generation To Boost Traffic, Leads & Revenue",
+    "parent": null,
+    "description": "Digital marketing Services in USA provided by MarketJoy for qualified leads. Increase ROI, Result driven lead generation & digital marketing services in USA",
+    "ogImage": "/wp-content/uploads/2026/07/digital-marketing.webp"
+  },
+  {
+    "slug": "finance-and-accounting-outsourcing-services",
+    "kind": "service",
+    "path": "/finance-and-accounting-outsourcing-services/",
+    "title": "Finance & Accounting Outsourcing Services",
+    "parent": null,
+    "description": "Finance and Accounting Outsourcing Services from MarketJoy help businesses reduce operating costs, improve financial accuracy, and scale bookkeeping, payroll, and reporting.",
+    "ogImage": "/wp-content/uploads/2026/06/Build-a-Smarter-Finance-Function-with-MarketJoy.png"
+  },
+  {
+    "slug": "generative-engine-optimization-services",
+    "kind": "service",
+    "path": "/generative-engine-optimization-services/",
+    "title": "Generative Engine Optimization (GEO) Services",
+    "parent": null,
+    "description": "Boost your brand’s AI search visibility with MarketJoy’s Generative Engine Optimization Services built to increase citations, mentions, and recommendations.",
+    "ogImage": "/wp-content/uploads/2026/07/4543-1.png"
+  },
+  {
+    "slug": "guaranteed-sales-qualified-leads",
+    "kind": "service",
+    "path": "/guaranteed-sales-qualified-leads/",
+    "title": "B2B Lead Generation",
+    "parent": null,
+    "description": "+1(484) 638-6389 Stop Betting Your Pipeline on One Source Guaranteed sales-qualified leads from a diversified pipeline built for growth Your sales…",
+    "ogImage": "/wp-content/uploads/2026/09/security.png"
+  },
+  {
+    "slug": "lead-generation-services-v1",
+    "kind": "service",
+    "path": "/lead-generation-services-v1/",
+    "title": "Your Sales Reps are about to be overworked",
+    "parent": null,
+    "description": "Discover the power of targeted, high-quality leads that convert. MarketJoy's unique approach to B2B lead generation services combines data-driven strategies.",
+    "ogImage": "/wp-content/uploads/2023/05/Group-530-1.png"
+  },
+  {
+    "slug": "omnichannel-marketing-services",
+    "kind": "service",
+    "path": "/omnichannel-marketing-services/",
+    "title": "Omnichannel Marketing Services",
+    "parent": null,
+    "description": "Omnichannel Marketing Services help align SEO, AI search, email, social, and paid media to generate qualified leads and accelerate pipeline growth.",
+    "ogImage": "/wp-content/uploads/2026/07/456375-1.png"
+  },
+  {
+    "slug": "outbound-sdr-services",
+    "kind": "service",
+    "path": "/outbound-sdr-services/",
+    "title": "Outbound SDR Services for Scalable B2B Revenue Growth",
+    "parent": null,
+    "description": "MarketJoy’s outbound SDR services generate qualified leads, book meetings, and build a predictable B2B sales pipeline through targeted outreach strategies.",
+    "ogImage": "/wp-content/uploads/2026/04/Group-1000001749.webp"
+  },
+  {
+    "slug": "products",
+    "kind": "product",
+    "path": "/products/",
+    "title": "Products",
+    "parent": null,
+    "description": "Discover MarketJoy’s products like InfoJoy, designed to give you clear buyer intent insights and accurate contact data—making B2B prospecting easier and more effective.",
+    "ogImage": "/wp-content/uploads/2025/11/product-banner.png"
+  },
+  {
+    "slug": "products__infojoy",
+    "kind": "product",
+    "path": "/products/infojoy/",
+    "title": "InfoJoy: B2B Buyer Intent Prospecting Platform Powered by AI",
+    "parent": "/products/",
+    "description": "B2B buyer intent prospecting platform powered by AI. Get in-market leads, access verified contacts, and convert faster with InfoJoy. Book a demo.",
+    "ogImage": ""
+  },
+  {
+    "slug": "salesfacilitation",
+    "kind": "service",
+    "path": "/salesfacilitation/",
+    "title": "Sales Facilitation Services for B2B Revenue Growth",
+    "parent": null,
+    "description": "Streamline B2B sales with facilitation, strategy, and optimized processes. Boost conversions, improve efficiency, and drive business growth seamlessly.",
+    "ogImage": "/wp-content/uploads/2026/03/Group-1000001723-1.webp"
+  }
+]

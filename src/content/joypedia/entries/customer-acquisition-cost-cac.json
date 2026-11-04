@@ -1,0 +1,26 @@
+{
+ "id": 12814,
+ "slug": "customer-acquisition-cost-cac",
+ "path": "/joypedia/customer-acquisition-cost-cac/",
+ "sourceUrl": "https://marketjoy.com/joypedia/customer-acquisition-cost-cac/",
+ "title": "Customer Acquisition Cost (CAC)",
+ "date": "2026-03-04T14:17:56",
+ "modified": "2026-03-04T14:17:56",
+ "sourceFormat": "plain-html",
+ "excerpt": "Customer Acquisition Cost (CAC) is the total cost a company incurs to acquire a new customer, including marketing, advertising, sales expenses, and related...",
+ "seo": {
+  "title": null,
+  "description": null,
+  "canonical": null,
+  "robots": null,
+  "note": "Not present in export (no Yoast/RankMath fields). excerpt is derived from the body."
+ },
+ "featuredImage": null,
+ "acf": null,
+ "blocks": [
+  {
+   "t": "p",
+   "html": "Customer Acquisition Cost (CAC) is the total cost a company incurs to acquire a new customer, including marketing, advertising, sales expenses, and related operational costs. It is calculated by dividing total acquisition costs by the number of new customers gained during a specific period. In simple terms, CAC shows how much it costs your business to convert a prospect into a paying customer."
+  }
+ ]
+}

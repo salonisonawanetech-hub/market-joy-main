@@ -1,0 +1,128 @@
+{
+ "id": 12856,
+ "slug": "intent-data",
+ "path": "/joypedia/intent-data/",
+ "sourceUrl": "https://marketjoy.com/joypedia/intent-data/",
+ "title": "Intent Data",
+ "date": "2026-03-05T09:35:27",
+ "modified": "2026-08-10T07:40:17",
+ "sourceFormat": "elementor",
+ "excerpt": "Intent Data refers to behavioral information that indicates a prospect’s interest in a specific product, service, or topic. It is collected from online...",
+ "seo": {
+  "title": null,
+  "description": null,
+  "canonical": null,
+  "robots": null,
+  "note": "Not present in export (no Yoast/RankMath fields). excerpt is derived from the body."
+ },
+ "featuredImage": null,
+ "acf": null,
+ "blocks": [
+  {
+   "t": "h2",
+   "text": "Definition"
+  },
+  {
+   "t": "p",
+   "html": "Intent Data refers to behavioral information that indicates a prospect’s interest in a specific product, service, or topic. It is collected from online activities such as website visits, content downloads, search behavior, and third-party research platforms to help sales and marketing teams identify high-potential buyers and prioritize outreach."
+  },
+  {
+   "t": "h2",
+   "text": "Overview"
+  },
+  {
+   "t": "p",
+   "html": "Intent Data helps businesses understand which prospects are actively researching solutions and may be closer to making a purchase decision. By analyzing buying signals, companies can focus their efforts on accounts showing real interest instead of relying only on static demographic data. It is widely used in B2B demand generation, account-based marketing, and outbound sales strategies."
+  },
+  {
+   "t": "h2",
+   "text": "How It Works"
+  },
+  {
+   "t": "p",
+   "html": "Intent data is typically gathered from first-party and third-party sources, including:"
+  },
+  {
+   "t": "ul",
+   "variant": "check",
+   "items": [
+    {
+     "title": null,
+     "html": "Website visits and page engagement"
+    },
+    {
+     "title": null,
+     "html": "Content downloads, webinar sign-ups, and form fills"
+    },
+    {
+     "title": null,
+     "html": "Search engine queries and keyword research behavior"
+    },
+    {
+     "title": null,
+     "html": "Reviews, comparison sites, and research platforms"
+    },
+    {
+     "title": null,
+     "html": "Email engagement and campaign interactions"
+    },
+    {
+     "title": null,
+     "html": "Topic consumption trends across publisher networks"
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "html": "Sales and marketing teams use this data to score accounts, personalize messaging, and time outreach more effectively."
+  },
+  {
+   "t": "p",
+   "html": "Identifies prospects actively in-market"
+  },
+  {
+   "t": "p",
+   "html": "Improves lead prioritization and sales efficiency"
+  },
+  {
+   "t": "p",
+   "html": "Enables more personalized outreach campaigns"
+  },
+  {
+   "t": "p",
+   "html": "Increases conversion rates and pipeline quality"
+  },
+  {
+   "t": "p",
+   "html": "Supports account-based marketing strategies"
+  },
+  {
+   "t": "p",
+   "html": "Reduces wasted effort on low-intent prospects"
+  },
+  {
+   "t": "h2",
+   "text": "Benefits of Using Intent Data:"
+  },
+  {
+   "t": "h2",
+   "text": "Example"
+  },
+  {
+   "t": "p",
+   "html": "A cloud software provider notices that several target accounts are repeatedly researching “data security compliance” and downloading related content. The sales team uses these signals to launch timely outreach with tailored messaging."
+  },
+  {
+   "t": "h2",
+   "text": "Summary"
+  },
+  {
+   "t": "p",
+   "html": "Intent Data is a powerful resource for identifying buyers who are actively exploring solutions. By turning behavioral signals into actionable insights, businesses can improve targeting, engage prospects earlier, and accelerate revenue growth."
+  },
+  {
+   "t": "cta",
+   "html": "Reach buyers at the right moment. MarketJoy helps businesses leverage intent data, prioritize high-converting accounts, and generate stronger pipelines through smarter outbound strategies."
+  }
+ ]
+}

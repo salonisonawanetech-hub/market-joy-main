@@ -1,0 +1,128 @@
+{
+ "id": 12971,
+ "slug": "year-over-year-growth-yoy",
+ "path": "/joypedia/year-over-year-growth-yoy/",
+ "sourceUrl": "https://marketjoy.com/joypedia/year-over-year-growth-yoy/",
+ "title": "Year-over-Year Growth (YoY)",
+ "date": "2026-03-05T12:56:12",
+ "modified": "2026-08-06T12:36:13",
+ "sourceFormat": "elementor",
+ "excerpt": "Year-over-Year Growth (YoY) is a performance metric that compares revenue, profit, or other key indicators from one year to the same period in the previous...",
+ "seo": {
+  "title": null,
+  "description": null,
+  "canonical": null,
+  "robots": null,
+  "note": "Not present in export (no Yoast/RankMath fields). excerpt is derived from the body."
+ },
+ "featuredImage": null,
+ "acf": null,
+ "blocks": [
+  {
+   "t": "h2",
+   "text": "Definition"
+  },
+  {
+   "t": "p",
+   "html": "Year-over-Year Growth (YoY) is a performance metric that compares revenue, profit, or other key indicators from one year to the same period in the previous year to measure growth trends."
+  },
+  {
+   "t": "h2",
+   "text": "Overview"
+  },
+  {
+   "t": "p",
+   "html": "YoY growth is commonly used to evaluate business performance over time while removing short-term seasonal fluctuations. It provides a clear picture of whether a company is improving, declining, or remaining stable."
+  },
+  {
+   "t": "h2",
+   "text": "How It Works"
+  },
+  {
+   "t": "p",
+   "html": "YoY growth is typically calculated by:"
+  },
+  {
+   "t": "ul",
+   "variant": "check",
+   "items": [
+    {
+     "title": null,
+     "html": "Selecting a metric such as revenue or profit"
+    },
+    {
+     "title": null,
+     "html": "Comparing the current period to the same period last year"
+    },
+    {
+     "title": null,
+     "html": "Measuring the percentage increase or decrease"
+    },
+    {
+     "title": null,
+     "html": "Reviewing trends across multiple years"
+    },
+    {
+     "title": null,
+     "html": "Benchmarking against goals or competitors"
+    },
+    {
+     "title": null,
+     "html": "Using results for forecasting and planning"
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "html": "Measures long-term progress"
+  },
+  {
+   "t": "p",
+   "html": "Reduces seasonal distortion"
+  },
+  {
+   "t": "p",
+   "html": "Supports investor reporting"
+  },
+  {
+   "t": "p",
+   "html": "Helps with forecasting"
+  },
+  {
+   "t": "p",
+   "html": "Identifies business momentum"
+  },
+  {
+   "t": "p",
+   "html": "Improves strategic planning"
+  },
+  {
+   "t": "p",
+   "html": "It is a standard metric in finance, sales, and executive reporting."
+  },
+  {
+   "t": "h2",
+   "text": "Benefits of Tracking YoY Growth:"
+  },
+  {
+   "t": "h2",
+   "text": "Example"
+  },
+  {
+   "t": "p",
+   "html": "If quarterly revenue rises from ₹50 lakh last year to ₹60 lakh this year, the YoY growth is 20%."
+  },
+  {
+   "t": "h2",
+   "text": "Summary"
+  },
+  {
+   "t": "p",
+   "html": "Year-over-Year Growth (YoY) measures how key business metrics perform compared with the same period in the previous year."
+  },
+  {
+   "t": "cta",
+   "html": "Track growth with confidence. MarketJoy helps businesses improve YoY performance through stronger sales and demand generation strategies."
+  }
+ ]
+}

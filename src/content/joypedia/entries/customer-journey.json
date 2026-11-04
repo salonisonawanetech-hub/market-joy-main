@@ -1,0 +1,120 @@
+{
+ "id": 12817,
+ "slug": "customer-journey",
+ "path": "/joypedia/customer-journey/",
+ "sourceUrl": "https://marketjoy.com/joypedia/customer-journey/",
+ "title": "Customer Journey",
+ "date": "2026-03-04T14:21:25",
+ "modified": "2026-08-07T07:15:44",
+ "sourceFormat": "elementor",
+ "excerpt": "Customer Journey refers to the complete process a prospect goes through—from initial awareness of a brand to making a purchase and beyond.",
+ "seo": {
+  "title": null,
+  "description": null,
+  "canonical": null,
+  "robots": null,
+  "note": "Not present in export (no Yoast/RankMath fields). excerpt is derived from the body."
+ },
+ "featuredImage": null,
+ "acf": null,
+ "blocks": [
+  {
+   "t": "h2",
+   "text": "Definition"
+  },
+  {
+   "t": "p",
+   "html": "Customer Journey refers to the complete process a prospect goes through—from initial awareness of a brand to making a purchase and beyond."
+  },
+  {
+   "t": "h2",
+   "text": "Overview"
+  },
+  {
+   "t": "p",
+   "html": "The customer journey encompasses every interaction a prospect or customer has with a brand across multiple touchpoints. It plays a crucial role in shaping perceptions, influencing decisions, and determining overall customer experience and satisfaction."
+  },
+  {
+   "t": "h2",
+   "text": "How It Works"
+  },
+  {
+   "t": "p",
+   "html": "The customer journey is typically divided into key stages, including:"
+  },
+  {
+   "t": "ul",
+   "variant": "check",
+   "items": [
+    {
+     "title": "Awareness:",
+     "html": "The prospect discovers a brand through ads, content, or referrals"
+    },
+    {
+     "title": "Consideration:",
+     "html": "The prospect researches and evaluates available solutions"
+    },
+    {
+     "title": "Decision:",
+     "html": "The prospect chooses a product or service and makes a purchase"
+    },
+    {
+     "title": "Retention:",
+     "html": "Post-purchase engagement to ensure satisfaction and repeat business"
+    },
+    {
+     "title": "Advocacy:",
+     "html": "Satisfied customers promote the brand through reviews or referrals"
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "html": "Improves customer experience across all touchpoints"
+  },
+  {
+   "t": "p",
+   "html": "Enables more personalized and relevant engagement"
+  },
+  {
+   "t": "p",
+   "html": "Identifies gaps or friction points in the buying process"
+  },
+  {
+   "t": "p",
+   "html": "Increases conversion rates and customer satisfaction"
+  },
+  {
+   "t": "p",
+   "html": "Strengthens long-term relationships and brand loyalty"
+  },
+  {
+   "t": "p",
+   "html": "Each stage involves various touchpoints such as website visits, emails, social media interactions, sales calls, and customer support."
+  },
+  {
+   "t": "h2",
+   "text": "Benefits of Understanding the Customer Journey:"
+  },
+  {
+   "t": "h2",
+   "text": "Example"
+  },
+  {
+   "t": "p",
+   "html": "A prospect first discovers a company through a social media ad, visits the website to read blog content, downloads a whitepaper, attends a demo, and finally makes a purchase—illustrating a complete customer journey."
+  },
+  {
+   "t": "h2",
+   "text": "Summary"
+  },
+  {
+   "t": "p",
+   "html": "The customer journey provides a holistic view of how prospects interact with a brand. By optimizing each stage and touchpoint, businesses can create seamless experiences that drive conversions and long-term loyalty."
+  },
+  {
+   "t": "cta",
+   "html": "Deliver seamless experiences at every touchpoint. MarketJoy helps you optimize the customer journey to engage prospects, accelerate decisions, and build lasting relationships."
+  }
+ ]
+}
