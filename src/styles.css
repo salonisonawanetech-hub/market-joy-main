@@ -394,7 +394,7 @@ input::selection, textarea::selection { background: var(--navy); color: var(--go
 @keyframes nav-bar { to { transform: scaleX(1); } }
 
 .nav-item-link { position: relative; transition: padding-left .25s cubic-bezier(.2,.8,.2,1), background-color .2s, color .2s; }
-.nav-item-link::before { content: ""; position: absolute; left: .7rem; top: 50%; width: 6px; height: 6px; border-radius: 9999px; background: var(--gold); transform: translateY(-50%) scale(0); transition: transform .3s cubic-bezier(.34,1.56,.64,1); }
+.nav-item-link::before { content: ""; position: absolute; left: .4rem; top: 50%; width: 6px; height: 6px; border-radius: 9999px; background: var(--gold); transform: translateY(-50%) scale(0); transition: transform .3s cubic-bezier(.34,1.56,.64,1); }
 .nav-item-link:hover, .nav-item-link:focus-visible { padding-left: 1.7rem; }
 .nav-item-link:hover::before, .nav-item-link:focus-visible::before { transform: translateY(-50%) scale(1); }
 
