@@ -32,14 +32,22 @@ export const NAV: NavGroup[] = [
       { label: "B2B Lead Generation", href: `${MJ}/b2b-lead-generation-services/` },
       { label: "Sales Facilitation", href: `${MJ}/salesfacilitation/` },
       { label: "List Building", href: `${MJ}/b2b-list-building-services/` },
-      { label: "Digital Marketing", href: `${MJ}/digital-marketing/` },
-      { label: "AI SEO Services", href: `${MJ}/ai-seo-services/` },
-      { label: "Answer Engine Optimization", href: `${MJ}/answer-engine-optimization-services/` },
       {
-        label: "Generative Engine Optimization",
-        href: `${MJ}/generative-engine-optimization-services/`,
+        label: "Digital Marketing",
+        href: `${MJ}/digital-marketing/`,
+        children: [
+          { label: "AI SEO Services", href: `${MJ}/ai-seo-services/` },
+          {
+            label: "Answer Engine Optimization",
+            href: `${MJ}/answer-engine-optimization-services/`,
+          },
+          {
+            label: "Generative Engine Optimization",
+            href: `${MJ}/generative-engine-optimization-services/`,
+          },
+          { label: "Omnichannel Marketing", href: `${MJ}/omnichannel-marketing-services/` },
+        ],
       },
-      { label: "Omnichannel Marketing", href: `${MJ}/omnichannel-marketing-services/` },
       { label: "Appointment Generation Setting", href: `${MJ}/appointment-generation-setting/` },
       { label: "Outbound SDR Services", href: `${MJ}/outbound-sdr-services/` },
       {
