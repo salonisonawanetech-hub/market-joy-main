@@ -57,3 +57,34 @@ If custom page-builder fields are used (Elementor, ACF, etc.), they may not be p
 - This integration replaces migrated blog content for listing and detail fetching, and migrated CPT entries for case study/news/press release detail routes. It also replaces the homepage's static latest-blog cards.
 - Other hand-crafted service/industry/about page layouts remain in the project to preserve the existing UI. Their page text/layout is not automatically replaced with WordPress page-builder markup because that would change the design. The REST client includes page/media/category queries as the next integration point. To make those pages fully editor-managed without a developer, agree a structured WordPress content model (ACF fields or Gutenberg blocks) and map those fields to the existing React sections.
 - Forms, booking integrations, menus and global business details are not automatically editable via the public content endpoints. They should be connected separately to the approved WordPress/plugin endpoints if the SEO/content team needs to manage them.
+
+## WordPress Pages and live SEO metadata (added integration)
+
+The frontend now has a WordPress Pages fallback resolver:
+
+- A WordPress page published with a new slug can be reached without adding a TanStack route manually (for single-segment slugs).
+- Pages that already have a hand-built React template keep that template and its visual design. Their live Rank Math title, description, canonical URL, robots value and social image are read from Rank Math's Headless CMS `getHead` endpoint and override the static SEO defaults.
+- The homepage keeps its React layout and reads its title, description and social metadata from the WordPress page currently published at `/` (`lead-generation-services-2`), falling back to the existing defaults if the page cannot be fetched.
+- Blog posts, custom post entries, industry/service pages, and the other routed content pages also request Rank Math metadata for their corresponding WordPress URL. If the endpoint is unavailable, the frontend falls back to WordPress REST fields and then its existing local metadata.
+- Other published WordPress pages use the shared MarketJoy header/footer and render the WordPress editor content in a standard content layout.
+- The resolver reads public published content only; no WordPress username, password, application password or secret is shipped to the browser.
+
+### Rank Math Headless CMS endpoint
+
+With Rank Math's **Headless CMS Support** enabled, the frontend requests:
+
+```text
+/wp-json/rankmath/v1/getHead?url={full-wordpress-url}
+```
+
+The adapter parses Rank Math's returned `<head>` markup for title, description, canonical, robots, Open Graph image/type, and Twitter card. For example, test a post with `/wp-json/rankmath/v1/getHead?url=https://marketjoy.com/post-slug/`. The endpoint must be publicly accessible to the frontend/server and allowed by any firewall or security plugin. If a request fails, the app logs a warning and uses the existing REST/local metadata fallback.
+
+WordPress REST page fields (`yoast_head_json` or Rank Math `meta.rank_math_*`) are used as secondary fallbacks when present.
+
+### Important scope: preserving bespoke page UI
+
+The About, homepage, service, product and industry pages have custom React section layouts and data structures. They intentionally continue using those layouts. Merely fetching `content.rendered` from WordPress cannot safely replace those sections without changing the UI. To make every section editable while preserving the exact design, the WordPress team must expose a documented ACF/blocks schema for each section (including repeaters, images, buttons, cards, testimonials, FAQs and navigation), and each React section must be mapped to those fields. The current code adds the live page/SEO resolver and generic WordPress page renderer; it does not pretend that unmapped React hardcoded copy, homepage sections, navigation, forms or global footer details are already CMS-managed.
+
+### Slug and redirect workflow
+
+New single-segment WordPress page slugs resolve dynamically. For a renamed page, configure a 301 redirect from the old URL to the new URL in WordPress/your redirect plugin. Nested hierarchical pages and menu links require the page `parent` hierarchy and a REST-backed menu/navigation endpoint; keep those enabled when implementing the full navigation migration.

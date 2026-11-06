@@ -2,6 +2,7 @@ import { useRef, useState } from "react";
 import { useGetPostTypesQuery, useGetCustomPostTypeQuery } from "@/lib/wordpressApi";
 import { ArrowRight, Calendar, ChevronRight } from "lucide-react";
 import GatewayFlow from "@/components/ui/gateway-flow";
+import { Skeleton } from "@/components/ui/skeleton";
 import { Navbar } from "@/components/home/Navbar";
 import { Reveal } from "@/components/home/Reveal";
 import { FinalCta, Footer } from "@/components/home/Sections";
@@ -189,8 +190,9 @@ export function ContentListing({ type }: { type: CptType }) {
     return label.includes("press release");
   });
   const restBase = match?.rest_base || match?.slug;
-  const { data: liveItems = [], isLoading, isError, refetch } =
+  const { data: liveItems = [], isFetching, isError, refetch } =
     useGetCustomPostTypeQuery({ restBase: restBase || "not-configured", page: 1, perPage: 100 }, { skip: !restBase });
+  const loading = typesLoading || (Boolean(restBase) && isFetching);
   const items = liveItems.map((item) => ({
     slug: item.slug, title: item.title, date: item.date, excerpt: item.excerpt,
     featuredImage: item.image ? { src: item.image, alt: item.title } : null,
@@ -203,14 +205,36 @@ export function ContentListing({ type }: { type: CptType }) {
         <Hero eyebrow="Resources" title={meta.label} sub={meta.sub} crumbs={[{ label: meta.label }]} />
         <section className="section-y">
           <div className="mx-auto max-w-7xl px-4 sm:px-6">
-            {(typesLoading || isLoading) && <p className="py-8 text-center text-muted-foreground">Loading published content from WordPress…</p>}
+            {loading && (
+              <div className="grid cols-3 gap-5 sm:gap-6" aria-busy="true" aria-label="Loading content">
+                {Array.from({ length: 6 }, (_, i) => (
+                  <div
+                    key={i}
+                    className="card-glow flex h-full flex-col overflow-hidden"
+                    aria-hidden="true"
+                  >
+                    <Skeleton className="aspect-[16/9] w-full rounded-none" />
+                    <div className="flex flex-1 flex-col p-5 sm:p-6">
+                      <Skeleton className="h-4 w-28" />
+                      <Skeleton className="mt-3 h-6 w-full" />
+                      <Skeleton className="mt-2 h-6 w-4/5" />
+                      <Skeleton className="mt-3 h-4 w-full" />
+                      <Skeleton className="mt-2 h-4 w-2/3" />
+                      <Skeleton className="mt-5 h-4 w-24" />
+                    </div>
+                  </div>
+                ))}
+              </div>
+            )}
             {isError && <div className="my-6 rounded-xl border p-5 text-center"><p>Could not fetch this content type. Confirm it is exposed in the WordPress REST API.</p><button className="mt-3 font-semibold text-brand-blue" onClick={() => refetch()}>Retry</button></div>}
             {!typesLoading && !restBase && <p className="py-8 text-center text-muted-foreground">WordPress has not exposed a matching custom post type. Enable “Show in REST API” for this post type.</p>}
-            <div className="grid cols-3 gap-5 sm:gap-6">
-              {items.slice(0, shown).map((it, i) => <Card key={it.slug} item={it as never} index={i} />)}
-            </div>
+            {!loading && (
+              <div className="grid cols-3 gap-5 sm:gap-6">
+                {items.slice(0, shown).map((it, i) => <Card key={it.slug} item={it as never} index={i} />)}
+              </div>
+            )}
             {shown < items.length && <div className="mt-10 text-center"><button type="button" onClick={() => setShown((n) => n + PER_PAGE)} className="rounded-full bg-gold px-6 py-3 text-sm font-semibold text-navy">Load more</button></div>}
-            {!isLoading && !isError && restBase && items.length === 0 && <p className="py-8 text-center text-muted-foreground">No published content found.</p>}
+            {!loading && !isError && restBase && items.length === 0 && <p className="py-8 text-center text-muted-foreground">No published content found.</p>}
           </div>
         </section>
         <FinalCta />

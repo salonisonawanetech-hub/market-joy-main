@@ -1,3 +1,5 @@
+import type { RankMathSeo } from "@/lib/wordpressPages";
+
 export type BlogSummary = {
   slug: string;
   title: string;
@@ -19,4 +21,5 @@ export type BlogPost = BlogSummary & {
   excerptSource: "meta-description" | "article-text";
   /** Sanitised article HTML (headings, paragraphs, lists, tables, images). */
   content: string;
+  rankMathSeo?: RankMathSeo | null;
 };

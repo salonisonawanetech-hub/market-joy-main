@@ -1,5 +1,6 @@
 import { useRouterState } from "@tanstack/react-router";
 import { useGetPostsQuery, useGetPostBySlugQuery, type LiveBlog } from "@/lib/wordpressApi";
+import { Skeleton } from "@/components/ui/skeleton";
 import { ArrowRight, Calendar, ChevronRight, User } from "lucide-react";
 import GatewayFlow from "@/components/ui/gateway-flow";
 import {
@@ -86,16 +87,33 @@ function pageWindow(page: number, total: number): (number | "gap")[] {
 export function BlogListing() {
   const search = useRouterState({ select: (s) => s.location.search }) as Record<string, unknown>;
   const page = Math.max(1, parseInt(String(search["page"] ?? "1"), 10) || 1);
-  const { data: posts = [], isLoading, isError, refetch } = useGetPostsQuery({ page, perPage: 13 });
+  const { data: posts = [], isFetching, isError, refetch } = useGetPostsQuery({ page, perPage: 13 });
   const featured = page === 1 ? posts[0] : undefined;
   const items = page === 1 ? posts.slice(1) : posts;
   const hasMore = posts.length === 13;
+  const loading = isFetching;
   return (
     <section className="section-y">
       <div className="container-fluid mx-auto max-w-7xl px-4 sm:px-6">
-        {isLoading && <p className="py-8 text-center text-muted-foreground">Loading the latest articles from WordPress…</p>}
         {isError && <div className="my-6 rounded-xl border p-5 text-center"><p>Unable to load articles from WordPress. Please check the REST API connection.</p><button className="mt-3 font-semibold text-brand-blue" onClick={() => refetch()}>Try again</button></div>}
-        {featured && <Reveal className="mb-8 sm:mb-10">
+        {loading && page === 1 && (
+          <div
+            className="card-glow mb-8 grid overflow-hidden lg:grid-cols-2 sm:mb-10"
+            aria-hidden="true"
+          >
+            <Skeleton className="aspect-[16/9] w-full rounded-none lg:aspect-auto lg:min-h-[22rem]" />
+            <div className="flex flex-col justify-center p-6 sm:p-8 lg:p-10">
+              <Skeleton className="h-4 w-28" />
+              <Skeleton className="mt-4 h-6 w-40 rounded-full" />
+              <Skeleton className="mt-4 h-9 w-full" />
+              <Skeleton className="mt-2 h-9 w-4/5" />
+              <Skeleton className="mt-4 h-4 w-full" />
+              <Skeleton className="mt-2 h-4 w-2/3" />
+              <Skeleton className="mt-6 h-4 w-24" />
+            </div>
+          </div>
+        )}
+        {featured && !loading && <Reveal className="mb-8 sm:mb-10">
           <a href={blogPath(featured.slug)} className="card-glow grid overflow-hidden lg:grid-cols-2">
             <div className="aspect-[16/9] overflow-hidden bg-muted lg:aspect-auto lg:min-h-[22rem]">
               {featured.image && <img src={featured.image} alt={featured.title} decoding="async" fetchPriority="high" className="h-full w-full object-cover" />}
@@ -110,9 +128,29 @@ export function BlogListing() {
           </a>
         </Reveal>}
         <SectionHead eyebrow="All articles" title="Insights for B2B Sales Teams" sub="Latest published articles from MarketJoy WordPress" />
-        <div className="grid cols-3 gap-5 sm:gap-6">{items.map((p, i) => <BlogCard key={p.slug} post={p} index={i} />)}</div>
-        {!isLoading && !isError && posts.length === 0 && <p className="py-10 text-center text-muted-foreground">No published articles found.</p>}
-        {(page > 1 || hasMore) && <Pagination className="mt-10 sm:mt-12"><PaginationContent className="flex-wrap justify-center">
+        <div className="grid cols-3 gap-5 sm:gap-6" aria-busy={loading}>
+          {loading
+            ? Array.from({ length: page === 1 ? 12 : 13 }, (_, i) => (
+                <div
+                  key={i}
+                  className="card-glow flex h-full flex-col overflow-hidden"
+                  aria-hidden="true"
+                >
+                  <Skeleton className="aspect-[16/9] w-full rounded-none" />
+                  <div className="flex flex-1 flex-col p-5 sm:p-6">
+                    <Skeleton className="h-6 w-28 rounded-full" />
+                    <Skeleton className="mt-4 h-6 w-full" />
+                    <Skeleton className="mt-2 h-6 w-4/5" />
+                    <Skeleton className="mt-3 h-4 w-full" />
+                    <Skeleton className="mt-2 h-4 w-2/3" />
+                    <Skeleton className="mt-5 h-4 w-24" />
+                  </div>
+                </div>
+              ))
+            : items.map((p, i) => <BlogCard key={p.slug} post={p} index={i} />)}
+        </div>
+        {!loading && !isError && posts.length === 0 && <p className="py-10 text-center text-muted-foreground">No published articles found.</p>}
+        {!loading && (page > 1 || hasMore) && <Pagination className="mt-10 sm:mt-12"><PaginationContent className="flex-wrap justify-center">
           {page > 1 && <PaginationItem><PaginationPrevious href={pageHref(page - 1)} rel="prev" /></PaginationItem>}
           <PaginationItem><PaginationLink href={pageHref(page)} isActive>{page}</PaginationLink></PaginationItem>
           {hasMore && <PaginationItem><PaginationNext href={pageHref(page + 1)} rel="next" /></PaginationItem>}

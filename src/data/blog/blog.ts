@@ -1,12 +1,13 @@
 import { BLOG_INDEX } from "./index";
 import type { BlogPost, BlogSummary } from "./types";
+import { fetchRankMathSeo } from "@/lib/wordpressPages";
 
 export { BLOG_INDEX };
 export type { BlogPost, BlogSummary };
 
 export const BLOG_PER_PAGE = 12;
 
-const WP_API_ROOT = (import.meta.env.VITE_WP_API_URL || "https://marketjoy.com/wp-json/wp/v2").replace(/\/$/, "");
+const WP_API_ROOT = (import.meta.env["VITE_WP_API_URL"] || "https://marketjoy.com/wp-json/wp/v2").replace(/\/$/, "");
 
 export async function loadPost(slug: string): Promise<BlogPost | null> {
   // Resolve every article from live WordPress first. This also makes newly published slugs routable
@@ -22,14 +23,16 @@ export async function loadPost(slug: string): Promise<BlogPost | null> {
         const strip = (value = "") => String(value).replace(/<[^>]*>/g, " ").replace(/&nbsp;/g, " ").replace(/&amp;/g, "&").replace(/\\s+/g, " ").trim();
         const title = strip(post.title?.rendered);
         const excerpt = strip(post.excerpt?.rendered);
+        const rankMathSeo = typeof post.link === "string" ? await fetchRankMathSeo(post.link) : null;
         return {
           slug: post.slug, title, date: String(post.date || "").slice(0, 10),
           category: category?.name || "Insights", categorySlug: category?.slug || "",
           author: post._embedded?.author?.[0]?.name || "MarketJoy",
           image: post._embedded?.["wp:featuredmedia"]?.[0]?.source_url || "",
           excerpt, tags: terms.filter((term: any) => term.taxonomy === "post_tag").map((term: any) => term.name),
-          related: [], seoTitle: title, metaDescription: excerpt,
+          related: [], seoTitle: rankMathSeo?.title || title, metaDescription: rankMathSeo?.description || excerpt,
           canonicalSlug: null, excerptSource: "article-text", content: post.content?.rendered || "",
+          rankMathSeo,
         };
       }
     }

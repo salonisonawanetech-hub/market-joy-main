@@ -1,4 +1,5 @@
 import { FlowButton } from "@/components/ui/flow-button";
+import { Skeleton } from "@/components/ui/skeleton";
 import { useGetPostsQuery } from "@/lib/wordpressApi";
 import { useState, type CSSProperties } from "react";
 import { useInView } from "./useInView";
@@ -835,26 +836,64 @@ export function Recognition() {
 }
 
 export function Blog() {
-  const { data: posts = [], isLoading, isError } = useGetPostsQuery({ page: 1, perPage: 3 });
+  const { data: posts = [], isFetching, isError } = useGetPostsQuery({ page: 1, perPage: 3 });
   return (
     <section className="section-y bg-muted">
       <div className="container-fluid mx-auto max-w-7xl px-4 sm:px-6">
-        <SectionHead eyebrow="Latest blog" title="Insights for B2B Sales Teams" link="/blog/" linkLabel="Get B2B Sales Insights" />
-        {isLoading && <p className="py-6 text-center text-muted-foreground">Loading latest articles…</p>}
-        {isError && <p className="py-6 text-center text-muted-foreground">Latest articles are temporarily unavailable.</p>}
-        <div className="grid cols-3 gap-5 sm:gap-6">
-          {posts.map((post, i) => (
-            <Reveal key={post.id} from={slide(i)} delay={i * 90}>
-              <a href={`/blog/${post.slug}/`} className="card-glow flex h-full flex-col overflow-hidden">
-                {post.image && <img src={post.image} alt={post.title} loading="lazy" className="aspect-[16/9] w-full object-cover" />}
-                <div className="flex flex-1 flex-col p-6">
-                  <span className="text-xs font-semibold text-brand-blue">{post.category} · {post.date}</span>
-                  <h3 className="mt-3 flex-1 text-lg font-bold">{post.title}</h3>
-                  <span className="mt-4 inline-flex items-center gap-1.5 text-sm font-semibold text-brand-blue">Read article <ArrowRight className="arrow h-4 w-4" /></span>
+        <SectionHead
+          eyebrow="Latest blog"
+          title="Insights for B2B Sales Teams"
+          link="/blog/"
+          linkLabel="Get B2B Sales Insights"
+        />
+        {isError && (
+          <p className="py-6 text-center text-muted-foreground">
+            Latest articles are temporarily unavailable.
+          </p>
+        )}
+        <div className="grid cols-3 gap-5 sm:gap-6" aria-busy={isFetching}>
+          {isFetching
+            ? Array.from({ length: 3 }, (_, i) => (
+                <div
+                  key={i}
+                  className="card-glow flex h-full flex-col overflow-hidden"
+                  aria-hidden="true"
+                >
+                  <Skeleton className="aspect-[16/9] w-full rounded-none" />
+                  <div className="flex flex-1 flex-col p-6">
+                    <Skeleton className="h-4 w-2/3" />
+                    <Skeleton className="mt-4 h-6 w-full" />
+                    <Skeleton className="mt-2 h-6 w-4/5" />
+                    <Skeleton className="mt-5 h-4 w-1/3" />
+                  </div>
                 </div>
-              </a>
-            </Reveal>
-          ))}
+              ))
+            : posts.map((post, i) => (
+                <Reveal key={post.id} from={slide(i)} delay={i * 90}>
+                  <a
+                    href={`/blog/${post.slug}/`}
+                    className="card-glow flex h-full flex-col overflow-hidden"
+                  >
+                    {post.image && (
+                      <img
+                        src={post.image}
+                        alt={post.title}
+                        loading="lazy"
+                        className="aspect-[16/9] w-full object-cover"
+                      />
+                    )}
+                    <div className="flex flex-1 flex-col p-6">
+                      <span className="text-xs font-semibold text-brand-blue">
+                        {post.category} · {post.date}
+                      </span>
+                      <h3 className="mt-3 flex-1 text-lg font-bold">{post.title}</h3>
+                      <span className="mt-4 inline-flex items-center gap-1.5 text-sm font-semibold text-brand-blue">
+                        Read article <ArrowRight className="arrow h-4 w-4" />
+                      </span>
+                    </div>
+                  </a>
+                </Reveal>
+              ))}
         </div>
       </div>
     </section>
